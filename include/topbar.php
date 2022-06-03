@@ -5,7 +5,7 @@
                 <div class="topbar-call text-left">
                     <ul>
                         <li><i class="fa fa-envelope-o theme-color"></i> <a
-                                href="mailto: info@darussalamcomputer.com">info@darussalamcomputers.com</a>
+                                href="mailto: info@darussalamcomputers.com">info@darussalamcomputers.com</a>
                         </li>
                         <li><i class="fa fa-phone"></i> <a href="tel:+2348123400001"> <span>+(234)
                                     812-340-0001 </span> </a> </li>
