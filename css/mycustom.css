@@ -1,0 +1,11 @@
+.sticky {
+    position: sticky;
+    top: 5rem;
+    /* width: 100%; */
+}
+
+#nav-portal-btn{
+    padding: 1rem;
+    /* color:white; */
+    /* border-radius: 5px; */
+}

@@ -1,0 +1,27 @@
+index search icon hide on mobile view = enter mobile nav
+add animate to scroll down button = index page
+remove topbar = nav view
+chatbot / social chat icon
+
+green = #84ba3f
+
+
+===check
+award wins counter
+contact map
+icdl index action box = call to action
+
+===call to action
+picture and/or gradient
+animated 
+
+
+blog = 3 columns right sidebar
+
+service details
+    image
+    contact
+    sample project/more pics
+blog detail
+
+service page = service type active
