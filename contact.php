@@ -129,7 +129,7 @@ page-title -->
             </div>
             <div class="container-fluid pos-r">
                 <div class="row row-eq-height full-height">
-                    <div class="col-lg-6 col-md-6 map-side g-map" id="map" data-type=''>
+                    <div class="col-lg-6 col-md-6 map-side g-map" id="map" data-type='' >
                         <div class="contact-map">
                         </div>
                         <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.5977267755375!2d7.426365214798639!3d10.532316092487493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d3552b5a50483%3A0x4dd107ab66e9b6be!2sNagwamatse%20House!5e0!3m2!1sen!2sng!4v1653350893447!5m2!1sen!2sng" style="border:0; width: 100%; height: 300px;"></iframe> -->
