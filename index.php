@@ -142,6 +142,7 @@ jquery -->
     <!-- custom -->
     <script type="text/javascript" src="js/custom.js"></script>
 
+    <!-- webchat -->
     <?php
         include_once('include/webchat.php');
     ?>

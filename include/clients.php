@@ -7,13 +7,10 @@
                         <img class="center-block img-responsive" src="images/clients/cbn.png" alt="">
                     </div>
                     <div class="item">
-                        <img class="center-block img-responsive" src="images/clients/fcc.png" alt="">
+                        <img class="center-block img-responsive" src="images/clients/shell.png" alt="">
                     </div>
                     <div class="item">
-                        <img class="center-block img-responsive" src="images/clients/highcourt.png" alt="">
-                    </div>
-                    <div class="item">
-                        <img class="center-block img-responsive" src="images/clients/jamal.png" alt="">
+                        <img class="center-block img-responsive" src="images/clients/icdl.png" alt="">
                     </div>
                     <div class="item">
                         <img class="center-block img-responsive" src="images/clients/kadpoly.png" alt="">
@@ -22,10 +19,13 @@
                         <img class="center-block img-responsive" src="images/clients/kadunastate.png" alt="">
                     </div>
                     <div class="item">
+                        <img class="center-block img-responsive" src="images/clients/jamal.png" alt="">
+                    </div>
+                    <div class="item">
                         <img class="center-block img-responsive" src="images/clients/kca.png" alt="">
                     </div>
                     <div class="item">
-                        <img class="center-block img-responsive" src="images/clients/shell.png" alt="">
+                        <img class="center-block img-responsive" src="images/clients/fcc.png" alt="">
                     </div>
                 </div>
             </div>

@@ -23,12 +23,12 @@
                                             class="fa fa-angle-down fa-indicator"></i></a>
                                     <!-- drop down multilevel  -->
                                     <ul class="drop-down-multilevel">
-                                        <li><a href="about.html">About Us </a></li>
-                                        <li><a href="portfolio.html">Portfolio </a></li>
+                                        <li><a href="about.php">About Us </a></li>
+                                        <li><a href="portfolio.php">Portfolio </a></li>
                                     </ul>
                                 </li>
 
-                                <li><a href="services.html">Services </a></li>
+                                <li><a href="services.php">Services </a></li>
 
                                 <li><a href="javascript:void(0)"> Programmes <i
                                             class="fa fa-angle-down fa-indicator"></i></a>
@@ -41,12 +41,11 @@
                                     </ul>
                                 </li>
 
-                                <li><a href="contact.html">Contact </a></li>
+                                <li><a href="#">Portal </a></li>
+
+                                <li><a href="contact.php">Contact </a></li>
 
                                 <!-- <li><a class="button border" href="#" id="nav-portal-btn">Portal</a></li> -->
-                                <li><a class="button" href="#" id="nav-portal-btn">
-                                        <span>Portal</span>
-                                    </a></li>
                                 <!-- <li><a href="cbt.html" class="btn btn-primary btn-lg">Student Portal </a></li> -->
 
                             </ul>

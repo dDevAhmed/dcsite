@@ -28,7 +28,7 @@
                                 <h5>Software Development</h5>
                                 <p>Tailored software solutions for you to achieve business needs in a fast and excellent way...
                                 </p>
-                                <a class="button icon-color" href="software-development.html">Read more <i
+                                <a class="button icon-color" href="software-development.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
                             <div class="feature-info">
                                 <h5>Computer Networking</h5>
                                 <p>Fast, secure networks to allow you connect your business, customers and clients anywhere, anytime...</p>
-                                <a class="button icon-color" href="computer-networking.html">Read more <i
+                                <a class="button icon-color" href="computer-networking.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                             <div class="feature-info">
                                 <h5>Web Development</h5>
                                 <p>Fully responsive web solutions to help improve your business online...</p>
-                                <a class="button icon-color" href="web-development.html">Read more <i
+                                <a class="button icon-color" href="web-development.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -69,7 +69,7 @@
                             <div class="feature-info">
                                 <h5>Graphic Design</h5>
                                 <p>Super clean and creative designs to help your brand standout from your competitors... </p>
-                                <a class="button icon-color" href="graphic-design.html">Read more <i
+                                <a class="button icon-color" href="graphic-design.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                             <div class="feature-info">
                                 <h5>Bulk SMS</h5>
                                 <p>Reach more potential audiences seamlessly and efficiently...</p>
-                                <a class="button icon-color" href="bulk-sms.html">Read more <i
+                                <a class="button icon-color" href="bulk-sms.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                             <div class="feature-info">
                                 <h5>CCTV Installation</h5>
                                 <p>IT security systems to help safeguard your personal and business asset when security matters...</p>
-                                <a class="button icon-color" href="cctv-installation.html">Read more <i
+                                <a class="button icon-color" href="cctv-installation.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                             <div class="feature-info">
                                 <h5>Raised Floor</h5>
                                 <p>Nicely fitted flooring systems for your hardware, electrical and networking systems ...</p>
-                                <a class="button icon-color" href="raised-floor.html">Read more <i
+                                <a class="button icon-color" href="raised-floor.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>
@@ -124,8 +124,8 @@
                             </div>
                             <div class="feature-info">
                                 <h5>Consultancy</h5>
-                                <p>Award-winning consultancy services firm ready to grow your business exponentially </p>
-                                <a class="button icon-color" href="consultancy.html">Read more <i
+                                <p>Award-winning consultancy services firm ready to grow your business exponentially... </p>
+                                <a class="button icon-color" href="consultancy.php">Read more <i
                                         class="fa fa-angle-right"></i></a>
                             </div>
                         </div>

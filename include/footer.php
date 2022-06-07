@@ -5,11 +5,11 @@
                 <div class="footer-useful-link footer-hedding">
                     <h6 class="text-white mb-30 mt-10 text-uppercase">Navigation</h6>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="services.html">Services</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="services.php">Services</a></li>
                         <!-- <li><a href="#">Team</a></li> -->
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -17,9 +17,9 @@
                 <div class="footer-useful-link footer-hedding">
                     <h6 class="text-white mb-30 mt-10 text-uppercase">Useful Links</h6>
                     <ul>
-                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><a href="portfolio.php">Portfolio</a></li>
                         <li><a href="#">Academy</a></li>
-                        <li><a href="certifications.html">Certifications</a></li>
+                        <li><a href="#">Certifications</a></li>
                         <li><a href="#">Corperate Trainings</a></li>
                         <li><a href="#">Portal</a></li>
                     </ul>
@@ -29,7 +29,7 @@
                 <h6 class="text-white mb-30 mt-10 text-uppercase">Contact Us</h6>
                 <ul class="addresss-info">
                     <li><i class="fa fa-map-marker"></i>
-                        <p>Nagwamatse house, Ahmadu Bello way Kaduna</p>
+                        <p>48 / 50 Nagwamatse house, Ahmadu Bello way Kaduna</p>
                     </li>
                     <li><i class="fa fa-phone"></i> <a href="tel:08123400001"> <span>+(234) 812-340-0001 </span>
                         </a>

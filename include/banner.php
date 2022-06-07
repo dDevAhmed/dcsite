@@ -15,6 +15,14 @@
                     <div class="owl-carousel text-left" data-nav-dots="true" data-autoheight="true" data-items="1"
                         data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="20">
                         <div class="item">
+                            <p class="text-white mt-20">Internationally Recognised.</p>
+                            <h1 class="text-white">We're <span class="theme-color"> ICDL </span> <br />
+                                accredited test center</h1>
+                            <div class="mt-20">
+                                <a class="button" href="#"> Learn More </a>
+                            </div>
+                        </div>
+                        <div class="item">
                             <p class="text-white mt-20">Creative & Innovative.</p>
                             <h1 class="text-white">We're here to <span class="theme-color"> grow </span> <br />
                                 your business</h1>
@@ -23,10 +31,10 @@
                             </div>
                         </div>
                         <div class="item">
-                            <p class="text-white mt-20">Truly ideal.</p>
-                            <h1 class="text-white">Custom IT solutions for your <span class="theme-color">
-                                    <br />
-                                    successful </span> business</h1>
+                            <p class="text-white mt-20">Truly Ideal.</p>
+                            <h1 class="text-white">Custom IT solutions for your 
+                            <br /> business<span class="theme-color">
+                                    success </span></h1>
                             <div class="mt-20">
                                 <a class="button" href="#"> Contact Us </a>
                             </div>
