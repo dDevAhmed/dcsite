@@ -7,16 +7,31 @@
                         <img class="center-block img-responsive" src="images/clients/cbn.png" alt="">
                     </div>
                     <div class="item">
+                        <img class="center-block img-responsive" src="images/clients/un.png" alt="">
+                    </div>
+                    <div class="item">
                         <img class="center-block img-responsive" src="images/clients/shell.png" alt="">
                     </div>
                     <div class="item">
                         <img class="center-block img-responsive" src="images/clients/icdl.png" alt="">
                     </div>
                     <div class="item">
+                        <img class="center-block img-responsive" src="images/clients/peugeot.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img class="center-block img-responsive" src="images/clients/itf.jpg" alt="">
+                    </div>
+                    <div class="item">
                         <img class="center-block img-responsive" src="images/clients/kadpoly.png" alt="">
                     </div>
                     <div class="item">
                         <img class="center-block img-responsive" src="images/clients/kadunastate.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img class="center-block img-responsive" src="images/clients/katsinajudiciary.png" alt="">
+                    </div>
+                    <div class="item">
+                        <img class="center-block img-responsive" src="images/clients/udus.jpg" alt="">
                     </div>
                     <div class="item">
                         <img class="center-block img-responsive" src="images/clients/jamal.png" alt="">

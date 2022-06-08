@@ -10,5 +10,11 @@ green = #84ba3f
 contact map
 
 
+===logos remain
+fairview
+newtraffordbrigde
+nudmc
+
+
 ===webchat
 Please fill out the form below and we will get back to you as soon as possible. Online chat is only available between 9AM and 5PM daily.
