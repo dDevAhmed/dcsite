@@ -619,13 +619,13 @@ POTENZA.googlemaps = function () {
          function init(id,clr) {
                 var mapOptions = {
                     zoom: 11,
-                    center: new google.maps.LatLng(-37.817078, 144.955936), //Update Latitude and Longitude here
+                    center: new google.maps.LatLng(10.517901, 7.430141), //Update Latitude and Longitude here
                     styles:clr 
                 };
                 var mapElement = document.getElementById(id);
                 var map = new google.maps.Map(mapElement, mapOptions);
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(40.6700, -73.9400),
+                    position: new google.maps.LatLng(10.517901, 7.430141),
                     map: map,
                     title: 'Snazzy!'
                 });
