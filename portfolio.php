@@ -1,3 +1,7 @@
+<?php 
+    $currentPge = "portfolio";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -84,7 +88,7 @@ page-title-->
                             <p>We know the secret of your success</p>
                         </div>
                         <ul class="page-breadcrumb">
-                            <li><a href="index.html"><i class="fa fa-home"></i> Home</a> <i
+                            <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i
                                     class="fa fa-angle-double-right"></i></li>
                             <li><span>portfolio</span> </li>
                         </ul>

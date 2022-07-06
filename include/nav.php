@@ -9,7 +9,7 @@
                         <!-- menu logo -->
                         <ul class="menu-logo">
                             <li>
-                                <a href="index-01.html"><img id="logo_img" src="images/logo.png" alt="logo">
+                                <a href="index.php"><img id="logo_img" src="images/logo.png" alt="logo">
                                 </a>
                             </li>
                         </ul>
@@ -17,9 +17,9 @@
                         <div class="menu-bar">
                             <ul class="menu-links">
 
-                                <li class="active"><a href="index.php">Home </a></li>
+                                <li class=<?php if($currentPge == "home"){ echo "active"; } ?> ><a href="index.php"> Home </a></li>
 
-                                <li><a href="javascript:void(0)"> About <i
+                                <li class=<?php if(($currentPge == "about")||($currentPge == "portfolio")){ echo "active"; } ?> ><a href="javascript:void(0)"> About <i
                                             class="fa fa-angle-down fa-indicator"></i></a>
                                     <!-- drop down multilevel  -->
                                     <ul class="drop-down-multilevel">
@@ -28,9 +28,9 @@
                                     </ul>
                                 </li>
 
-                                <li><a href="services.php">Services </a></li>
+                                <li class=<?php if($currentPge == "services"){ echo "active"; } ?> ><a href="services.php">Services </a></li>
 
-                                <li><a href="javascript:void(0)"> Programmes <i
+                                <li class=<?php if(($currentPge == "academy") || ($currentPge == "internships") || ($currentPge == "corperatetrainings") || ($currentPge == "certifications")){ echo "active"; } ?>><a href="javascript:void(0)"> Programmes <i
                                             class="fa fa-angle-down fa-indicator"></i></a>
                                     <!-- drop down multilevel  -->
                                     <ul class="drop-down-multilevel">
@@ -43,7 +43,7 @@
 
                                 <li><a href="#">Portal </a></li>
 
-                                <li><a href="contact.php">Contact </a></li>
+                                <li class=<?php if($currentPge == "contact"){ echo "active"; } ?> ><a href="contact.php">Contact </a></li>
 
                                 <!-- <li><a class="button border" href="#" id="nav-portal-btn">Portal</a></li> -->
                                 <!-- <li><a href="cbt.html" class="btn btn-primary btn-lg">Student Portal </a></li> -->

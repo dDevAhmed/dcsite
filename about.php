@@ -1,3 +1,7 @@
+<?php 
+    $currentPge = "about";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -42,7 +46,7 @@
  preloader -->
 
         <?php
-            include_once('include/preloader.php');
+        include_once('include/preloader.php');
         ?>
 
         <!--=================================
@@ -56,14 +60,14 @@
         <header id="header" class="header default">
             <!-- class= dark -->
             <?php
-                include_once('include/topbar.php');
+            include_once('include/topbar.php');
             ?>
 
             <!--=================================
    mega menu -->
 
             <?php
-                include_once('include/nav.php');
+            include_once('include/nav.php');
             ?>
         </header>
 
@@ -83,7 +87,7 @@ page-title-->
                             <p>We know the secret of your success</p>
                         </div>
                         <ul class="page-breadcrumb">
-                            <li><a href="index.html"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+                            <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
                             <li><span>About Us</span> </li>
                         </ul>
                     </div>
@@ -108,20 +112,20 @@ page-title -->
                             <p>We truly care about our users and our product. We are dedicated to providing you with the
                                 best experience possible. </p>
                         </div>
-                        <p>Let's make something great together consectetur adipisicing elit. <span class="theme-color" data-toggle="tooltip" data-placement="top" title="" data-original-title="HTML5 template">Webster</span> conseqt quibusdam, enim expedita sed
-                            quia nesciunt. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt
-                            accusamus necessitatibus</p>
+                        <p> <span class="dropcap gray square">S</span>ince 2005, we have taken an active role in ICT construction projects for Nigerian government and private entitites such as the Kaduna state government, Peugeot automobile Nigeria (PAN), Independent national electoral commision (INEC). A key enabler for our Nigerain business has been our logistics and engineering facility. These facilities allows us the flexibility to procure, import, assemble for effective system integration.
+                    
+                        With our full time employees permanently in Nigeria, we have been able to establish a unique centre of technology excellence in the country.</p>
                         <div class="row mt-30 sm-mb-40">
                             <div class="col-md-6">
                                 <ul class="list list-unstyled list-hand">
-                                    <li> Award-winning design</li>
-                                    <li> Super Fast Customer support </li>
+                                    <li> Internationally Recognised</li>
+                                    <li> Creative & Innovative </li>
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="list list-unstyled list-hand">
-                                    <li> Easy to Customize pages</li>
-                                    <li> Powerful Performance </li>
+                                    <li> Truly Ideal</li>
+                                    <li> Professional Award-winning </li>
                                 </ul>
                             </div>
                         </div>
@@ -144,33 +148,37 @@ page-title -->
                     <div class="col-lg-4 col-md-4 col-sm-4 xs-mb-30">
                         <div class="feature-text m left-icon mt-60">
                             <div class="feature-icon">
-                                <span class="ti-desktop theme-color" aria-hidden="true"></span>
+                            <img src="images/icons/green/icons8-mission-100.png" alt="#">
+
+                                <!-- <span class="ti-desktop theme-color" aria-hidden="true"></span> -->
                             </div>
                             <div class="feature-info">
-                                <h5>Our company</h5>
-                                <p>Enim expedita sed quia nesciunt dolor sit consectetur conseqt quibusdam</p>
+                                <h5>Our Mission</h5>
+                                <p>To deliver a distinctive competitive advantage to our customers by combining technology and industry leadership.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 xs-mb-30">
                         <div class="feature-text left-icon mt-60">
                             <div class="feature-icon">
-                                <span class="ti-server theme-color" aria-hidden="true"></span>
+                            <img src="images/icons/green/icons8-values-100.png" alt="#">
+                                <!-- <span class="ti-server theme-color" aria-hidden="true"></span> -->
                             </div>
                             <div class="feature-info">
-                                <h5>Our Mission</h5>
-                                <p>Conseqt quibusdam, enim expedita sed quia nesciunt dolor sit consectetur</p>
+                                <h5>Our Values</h5>
+                                <p>Flexibility, integrity, teamwork, and innovation.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="feature-text left-icon mt-60">
                             <div class="feature-icon">
-                                <span class="ti-heart theme-color" aria-hidden="true"></span>
+                            <img src="images/icons/green/icons8-success-100.png" alt="#">
+                                <!-- <span class="ti-heart theme-color" aria-hidden="true"></span> -->
                             </div>
                             <div class="feature-info">
-                                <h5 class="text-back">We Love</h5>
-                                <p>Expedita sed quia nesciunt dolor sit consectetur conseqt quibusdam enim</p>
+                                <h5 class="text-back">Our Success</h5>
+                                <p>Measured by our ability to create a portfolio of unique and high valued solutions that appeal to a broad, regional market.</p>
                             </div>
                         </div>
                     </div>
@@ -188,7 +196,7 @@ work-process -->
         <section class="split-section black-bg page-section-ptb">
             <div class="side-background">
                 <div class="col-md-6 col-sm-4 img-side img-left">
-                    <div class="img-holder img-cover" data-jarallax='{"speed": 0.6}' style="background-image: url(images/bg/09.jpg);">
+                    <div class="img-holder img-cover" data-jarallax='{"speed": 0.6}' style="background-image: url(images/work-process.png);">
                     </div>
                 </div>
             </div>
@@ -248,7 +256,7 @@ work-process -->
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
-                        <img class="hidden-sm hidden-xs img-responsive" src="images/objects/testimonial.png" alt="">
+                        <img class="hidden-sm hidden-xs img-responsive" src="images/client-review.png" alt="">
                     </div>
                     <div class="col-lg-6 col-md-6 mt-60">
                         <div class="section-title">
@@ -268,7 +276,7 @@ work-process -->
                                         variations. Incredible Job.</p>
                                     <div class="testimonial-avatar">
                                         <h5>Acapella </h5>
-                                        <span>ThemeForest user</span>
+                                        <span>Managing Director Peugeot Automobile of Nigeria (PAN)</span>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="testi-02">
@@ -281,7 +289,7 @@ work-process -->
                                     </p>
                                     <div class="testimonial-avatar">
                                         <h5>Tenfore </h5>
-                                        <span>ThemeForest user</span>
+                                        <span>Director Industrial Training Fund (ITF)</span>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="testi-03">
@@ -295,7 +303,7 @@ work-process -->
                                         and good!! Top marks.</p>
                                     <div class="testimonial-avatar">
                                         <h5>Acapella </h5>
-                                        <span>ThemeForest user</span>
+                                        <span>Registra Usman Danfodio University</span>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="testi-04">
@@ -307,16 +315,16 @@ work-process -->
                                         and design is flexible with multiple layout provided. good work keep it up.</p>
                                     <div class="testimonial-avatar">
                                         <h5>Shopperbox </h5>
-                                        <span>ThemeForest user</span>
+                                        <span>Director ICT Central Bank of Nigeria</span>
                                     </div>
                                 </div>
                                 <ul class="nav nav-tabs mt-60">
-                                    <li class="active"><a href="#testi-01" data-toggle="tab"><img class="img-responsive" src="images/team/01.jpg" alt=""> </a></li>
-                                    <li><a href="#testi-02" data-toggle="tab"><img class="img-responsive" src="images/team/02.jpg" alt="">
+                                    <li class="active"><a href="#testi-01" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-1.jpg" alt=""> </a></li>
+                                    <li><a href="#testi-02" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-2.jpg" alt="">
                                         </a></li>
-                                    <li><a href="#testi-03" data-toggle="tab"><img class="img-responsive" src="images/team/03.jpg" alt="">
+                                    <li><a href="#testi-03" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-3.jpg" alt="">
                                         </a></li>
-                                    <li><a href="#testi-04" data-toggle="tab"><img class="img-responsive" src="images/team/04.jpg" alt="">
+                                    <li><a href="#testi-04" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-4.jpg" alt="">
                                         </a></li>
                                 </ul>
                             </div>
@@ -334,7 +342,7 @@ Our Testimonial -->
  clients  -->
 
         <?php
-            include_once('include/clients.php');
+        include_once('include/clients.php');
         ?>
 
         <!--=================================
@@ -345,7 +353,7 @@ clients  -->
  footer -->
 
         <?php
-            include_once('include/footer.php');
+        include_once('include/footer.php');
         ?>
 
         <!--=================================
@@ -376,7 +384,7 @@ clients  -->
 
     <!-- webchat -->
     <?php
-        include_once('include/webchat.php');
+    include_once('include/webchat.php');
     ?>
 
 </body>

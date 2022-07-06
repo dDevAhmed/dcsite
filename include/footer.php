@@ -35,7 +35,7 @@
                         </a>
                     </li>
                     <li><i class="fa fa-envelope-o"></i><a
-                            href="mailto: info@darussalamcomputer.com">info@darussalamcomputers.com</a> </li>
+                            href="mailto: info@darussalamcomputers.com">info@darussalamcomputers.com</a> </li>
                 </ul>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">

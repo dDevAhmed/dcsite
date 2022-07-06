@@ -1,9 +1,13 @@
-add animate to scroll down button = index page
-remove topbar = mobile view
-page nav active
-portfolio page images
+animate to scroll down button = index page
+pages not index header caption
+    about
+    services
+        all services
+    portfolio
+    contact
 
-green = #84ba3f
+
+===green (primary color)= #84ba3f
 
 
 ===check
@@ -14,7 +18,17 @@ contact map
 fairview
 newtraffordbrigde
 nudmc
+garkuwa
 
 
-===webchat
-Please fill out the form below and we will get back to you as soon as possible. Online chat is only available between 9AM and 5PM daily.
+
+===KEEP
+about === tranforming the way people and organizations work so they can achieve their greatest ambitions
+
+lets make great things together
+
+contact us === we love to hear from you
+
+services === our passion is our success
+
+we know the secret of your success

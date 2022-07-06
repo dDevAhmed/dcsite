@@ -12,7 +12,7 @@
                 </div>
                 <p> <span class="dropcap gray square">D</span> arussalam Computers Ltd. is a consultancy services firm on ICT (Information Communication Technology) integration and solutions. Darussalam focuses on both very large and small telecommunications and network infrastructure, applications and services which are designed, deployed and supported by our highly skilled technical and management team. These solutions are created from best-of-breed, industry-standard components, acquired through international partnerships with the world's leading technology vendors.</p>
                 <div class="mt-30">
-                    <a class="button icon mb-10 mr-10" href="about.html">
+                    <a class="button icon mb-10 mr-10" href="about.php">
                         <span>Read more</span>
                     </a>
                 </div>

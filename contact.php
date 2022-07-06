@@ -1,3 +1,7 @@
+<?php 
+    $currentPge = "contact";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -84,7 +88,7 @@ page-title-->
                             <p>We know the secret of your success</p>
                         </div>
                         <ul class="page-breadcrumb">
-                            <li><a href="index.html"><i class="fa fa-home"></i> Home</a> <i
+                            <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i
                                     class="fa fa-angle-double-right"></i></li>
                             <li><span>contact</span> </li>
                         </ul>
@@ -122,7 +126,7 @@ page-title -->
                         <div class="text-center">
                             <i class="ti-email text-white"></i>
                             <h4 class="text-white mt-15">Email Us</h4>
-                            <p class="text-white">info@darussalamcomputer.com</p>
+                            <p class="text-white">info@darussalamcomputers.com</p>
                         </div>
                     </div>
                 </div>
@@ -133,6 +137,9 @@ page-title -->
                         <div class="contact-map">
                         </div>
                         <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.5977267755375!2d7.426365214798639!3d10.532316092487493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d3552b5a50483%3A0x4dd107ab66e9b6be!2sNagwamatse%20House!5e0!3m2!1sen!2sng!4v1653350893447!5m2!1sen!2sng" style="border:0; width: 100%; height: 300px;"></iframe> -->
+                        
+                        <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.5977267755375!2d7.426365214798639!3d10.532316092487493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104d3552b5a50483%3A0x4dd107ab66e9b6be!2sNagwamatse%20House!5e0!3m2!1sen!2sng!4v1653350893447!5m2!1sen!2sng" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen></iframe> -->
+
                     </div>
                 </div>
             </div>

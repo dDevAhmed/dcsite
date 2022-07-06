@@ -1,3 +1,6 @@
+<?php 
+    $currentPge = "home";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -86,17 +89,6 @@ icdl action-box-->
 
         <!--=================================
 icdl action-box-->
-
-
-    <!--=================================
-portfolio -->
-
-        <?php
-            include_once('include/portfolio.php');
-        ?>
-
-        <!--=================================
-portfolio -->
 
 
     <!--=================================
