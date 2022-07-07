@@ -1,3 +1,7 @@
+<?php 
+    $currentPge = "servicedetail";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 

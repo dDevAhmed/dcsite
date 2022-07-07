@@ -180,7 +180,7 @@ page-title -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30white-bg fadeInUp wow">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-cctv-100.png" alt="software-solution">
                             </div>

@@ -2,7 +2,7 @@
 if(isset($_POST["action"])) {
 	$name = $_POST['name'];        // Sender's name
 	$email = $_POST['email'];      // Sender's email address
-	$phone  = $_POST['phone'];     // Sender's email address
+	$phone  = $_POST['phone'];     // Sender's phone
 	$message = $_POST['message'];  // Sender's message
 	$headers = 'From: Demo Contact Form <demo@domain.com>' . "\r\n";
 

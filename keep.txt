@@ -5,6 +5,9 @@ pages not index header caption
         all services
     portfolio
     contact
+forms
+    newsletter
+    contact form
 
 
 ===green (primary color)= #84ba3f

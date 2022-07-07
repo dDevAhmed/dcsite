@@ -28,7 +28,7 @@
                                     </ul>
                                 </li>
 
-                                <li class=<?php if($currentPge == "services"){ echo "active"; } ?> ><a href="services.php">Services </a></li>
+                                <li class=<?php if(($currentPge == "services") || ($currentPge == "servicedetail")){ echo "active"; } ?> ><a href="services.php">Services </a></li>
 
                                 <li class=<?php if(($currentPge == "academy") || ($currentPge == "internships") || ($currentPge == "corperatetrainings") || ($currentPge == "certifications")){ echo "active"; } ?>><a href="javascript:void(0)"> Programmes <i
                                             class="fa fa-angle-down fa-indicator"></i></a>
