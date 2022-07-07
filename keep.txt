@@ -6,6 +6,8 @@ pages not index header caption
     portfolio
     contact
 
+fadeinup for services = services page
+
 
 ===green (primary color)= #84ba3f
 

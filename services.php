@@ -116,7 +116,7 @@ page-title -->
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <!-- <span aria-hidden="true" class="ti-layers-alt"></span> -->
                                 <img src="images/icons/black/icons8-software-100.png" alt="software-solution">
@@ -130,7 +130,7 @@ page-title -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-computer-networks-100.png" alt="software-solution">
                             </div>
@@ -142,7 +142,7 @@ page-title -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-website-100.png" alt="software-solution">
                             </div>
@@ -156,7 +156,7 @@ page-title -->
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-graphic-design-100.png" alt="software-solution">
                             </div>
@@ -168,7 +168,7 @@ page-title -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-sms-100.png" alt="software-solution">
                             </div>
@@ -180,7 +180,7 @@ page-title -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center white-bg">
+                        <div class="feature-text box-shadow text-center mb-30white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-cctv-100.png" alt="software-solution">
                             </div>
@@ -194,7 +194,7 @@ page-title -->
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-layers-100.png" alt="software-solution">
                             </div>
@@ -206,7 +206,7 @@ page-title -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg">
+                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/black/icons8-consulting-100.png" alt="software-solution">
                             </div>
@@ -218,7 +218,7 @@ page-title -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center theme-bg">
+                        <div class="feature-text box-shadow text-center theme-bg fadeInUp wow">
                             <div class="feature-icon">
                                 <img src="images/icons/white/icons8-headset-100.png" alt="software-solution">
                             </div>
