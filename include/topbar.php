@@ -15,9 +15,9 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="topbar-social text-right">
                     <ul>
-                        <li><a href="#"><span class="ti-facebook"></span></a></li>
+                        <li><a href="https:/facebook.com/darussalamcomputersltd"><span class="ti-facebook"></span></a></li>
                         <li><a href="#"><span class="ti-instagram"></span></a></li>
-                        <li><a href="#"><span class="ti-linkedin"></span></a></li>
+                        <li><a href="https://www.linkedin.com/company/darussalam-computers"><span class="ti-linkedin"></span></a></li>
                     </ul>
                 </div>
             </div>
