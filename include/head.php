@@ -34,3 +34,6 @@
 
 <!-- mycustom css -->
 <link rel="stylesheet" href="css/mycustom.css">
+
+<!-- smooth scroll down js -->
+<script src="../../ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

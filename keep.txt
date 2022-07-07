@@ -1,12 +1,10 @@
-animate to scroll down button = index page
+smooth scroll down button = index page
 pages not index header caption
     about
     services
         all services
     portfolio
     contact
-
-fadeinup for services = services page
 
 
 ===green (primary color)= #84ba3f
