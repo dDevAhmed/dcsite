@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <div class="section-title text-center">
-                    <h6>Our trusted friends </h6>
+                    <h6>Our trusted </h6>
                     <h2 class="title-effect">Clients and Partners</h2>
                 </div>
             </div>

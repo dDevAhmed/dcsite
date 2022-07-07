@@ -10,11 +10,6 @@ pages not index header caption
 ===green (primary color)= #84ba3f
 
 
-===check
-contact map
-    latitude = 10.517901
-    longitude = 7.430141
-
 
 ===logos remain
 fairview
