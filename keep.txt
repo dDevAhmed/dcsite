@@ -1,3 +1,7 @@
+===green (primary color)= #84ba3f
+
+
+===tasks remain
 smooth scroll down button = index page
 pages not index header caption
     about
@@ -7,19 +11,22 @@ pages not index header caption
     contact
 forms
     newsletter
-    contact form
+show copied on tooltip = service page
+social share links
+instagram link
+portfolio page partners images resize
 
-
-===green (primary color)= #84ba3f
-
-
+===content
+	about
+		unique process
+		clients reviews
+		portfolio
+			pictures = 800 X 600
 
 ===logos remain
-fairview
 newtraffordbrigde
 nudmc
 garkuwa
-
 
 
 ===KEEP

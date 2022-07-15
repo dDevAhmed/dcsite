@@ -75,9 +75,9 @@
                 <div class="col-lg-6 col-md-6 col-sm-6 text-right xs-text-left">
                     <div class="footer-widget-social">
                         <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://facebook.com/darussalamcomputersltd"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="ti-instagram"></i> </a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i> </a></li>
+                            <li><a href="https://www.linkedin.com/company/darussalam-computers"><i class="fa fa-linkedin"></i> </a></li>
                         </ul>
                     </div>
                 </div>

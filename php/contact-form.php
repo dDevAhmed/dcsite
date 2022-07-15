@@ -6,8 +6,8 @@ if(isset($_POST["action"])) {
 	$message = $_POST['message'];  // Sender's message
 	$headers = 'From: Demo Contact Form <demo@domain.com>' . "\r\n";
 
-	$to = 'demo@domain.com';     // Recipient's email address
-	$subject = 'Message from Webster Contact Demo '; // Message title
+	$to = 'info@darussalamcomputers.com';     // Recipient's email address
+	$subject = 'Message from Darussalam Computers Contact Demo '; // Message title
 
 	$body = " From: $name \n E-Mail: $email \n Phone : $phone \n Message : $message"  ;
 	

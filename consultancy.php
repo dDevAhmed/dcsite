@@ -119,25 +119,12 @@ page-title -->
                                 <div class="entry-title mb-10">
                                     <a href="#">Consultancy</a>
                                 </div>
-                                <div class="entry-meta mb-10">
-                                    <ul>
-                                        <li> <i class="fa fa-folder-open-o"></i> <a href="#"> Design,</a> <a href="#">
-                                                HTML5 </a> </li>
-                                        <li><a href="#"><i class="fa fa-comment-o"></i> 5</a></li>
-                                        <li><a href="#"><i class="fa fa-calendar-o"></i> 12 Aug 2017</a></li>
-                                    </ul>
-                                </div>
                                 <div class="entry-content">
-                                    <p>A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. consectetur,
-                                        assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                        Quae laboriosam sunt hic perspiciatis, asperiores mollitia excepturi
-                                        voluptatibus sequi nostrum ipsam veniam omnis nihil! </p>
+                                    <p>We provide expert consultancy services that cover the fully lifecycle of your ICT projects. Whether we are dealing with a small business looking to deploy a LAN to boost value in their business or a large firm with an interest in scaling their ICT infrastructure, our approach remains the same. Our approach depends on what best suits your needs. We can work alongside your in-house team adding value where needed, or manage your entire IT function from strategic direction to day to day management and support.<br><br>
+                                    
+                                    With over a decade of experience in delivering innovative, cost saving ICT consultancy, solutions and support, we have proved time and time again our ability to listen to our client’s business problems and issues, and then deliver up to and way beyond the promise. Our reputation is built on having the high level expertise and understanding needed to become a strategic partner, one on which clients can depend to support them in making the right technology choices. </p>
                                 </div>
                                 <div class="entry-share clearfix">
-                                    <div class="entry-button">
-                                        <a class="button arrow" href="#">Read More<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                    </div>
                                     <div class="social list-style-none pull-right">
                                         <strong>Share : </strong>
                                         <ul>
@@ -148,10 +135,10 @@ page-title -->
                                                 <a href="#"> <i class="fa fa-twitter"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#"> <i class="fa fa-pinterest-p"></i> </a>
+                                                <a href="#"> <i class="fa fa-whatsapp"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#"> <i class="fa fa-dribbble"></i> </a>
+                                                <a href="#" class="click-to-copy-btn"><span class="tooltip-content" data-original-title="copy" data-toggle="tooltip" data-placement="top"> <i class="fa fa-copy"></i> </span></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -185,95 +172,6 @@ page-title -->
                                         </div>
                                     </li>
                                 </ul>
-                            </div>
-                            <div class="blog-detail">
-                                <div class="entry-title mb-10">
-                                    <a href="#">Blogpost With Image Grid Gallery Format </a>
-                                </div>
-                                <div class="entry-meta mb-10">
-                                    <ul>
-                                        <li> <i class="fa fa-folder-open-o"></i> <a href="#"> Design,</a> <a href="#">
-                                                HTML5 </a> </li>
-                                        <li><a href="#"><i class="fa fa-comment-o"></i> 5</a></li>
-                                        <li><a href="#"><i class="fa fa-calendar-o"></i> 12 Aug 2017</a></li>
-                                    </ul>
-                                </div>
-                                <div class="entry-content">
-                                    <p>Veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet,
-                                        consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                                        dolore magna aliqua consectetur, assumenda provident lorem ipsum dolor sit amet,
-                                        consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, asperiores
-                                        mollitia excepturi voluptatibus sequi nostrum ipsam.</p>
-                                </div>
-                                <div class="entry-share clearfix">
-                                    <div class="entry-button">
-                                        <a class="button arrow" href="#">Read More<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                    </div>
-                                    <div class="social list-style-none pull-right">
-                                        <strong>Share : </strong>
-                                        <ul>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-facebook"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-twitter"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-pinterest-p"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-dribbble"></i> </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <!-- ================================================ -->
-                        <div class="blog-entry mb-50">
-                            <div class="blog-detail">
-                                <div class="entry-title mb-10">
-                                    <a href="#">Blogpost Without Image</a>
-                                </div>
-                                <div class="entry-meta mb-10">
-                                    <ul>
-                                        <li> <i class="fa fa-folder-open-o"></i> <a href="#"> Design,</a> <a href="#">
-                                                HTML5 </a> </li>
-                                        <li><a href="#"><i class="fa fa-comment-o"></i> 5</a></li>
-                                        <li><a href="#"><i class="fa fa-calendar-o"></i> 12 Aug 2017</a></li>
-                                    </ul>
-                                </div>
-                                <div class="entry-content">
-                                    <p>Asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis
-                                        nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur
-                                        adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                        aliqua. consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur
-                                        adipisicing elit. Quae laboriosam sunt hic perspiciatis</p>
-                                </div>
-                                <div class="entry-share clearfix">
-                                    <div class="entry-button">
-                                        <a class="button arrow" href="#">Read More<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                    </div>
-                                    <div class="social list-style-none pull-right">
-                                        <strong>Share : </strong>
-                                        <ul>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-facebook"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-twitter"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-pinterest-p"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-dribbble"></i> </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

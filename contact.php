@@ -153,7 +153,7 @@ page-title -->
                                 </div>
                                 <p class="mb-50">It would be great to hear from you! If you got any questions, please do
                                     not hesitate to send us a message. We are looking forward to hearing from you! We
-                                    reply within <span class="tooltip-content" data-original-title="Mon-Fri 10am–7pm (GMT +1)" data-toggle="tooltip" data-placement="top"> 24 hours!</span></p>
+                                    reply within <span class="tooltip-content" data-original-title="Mon-Fri 9am–5pm (GMT +1)" data-toggle="tooltip" data-placement="top"> 24 hours!</span></p>
                                 <div id="formmessage">Success/Error Message Goes Here</div>
                                 <form class="form-horizontal" id="contactform" role="form" method="post" action="php/contact-form.php">
                                     <div class="contact-form clearfix">

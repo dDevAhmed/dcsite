@@ -248,83 +248,6 @@ counter -->
     <!--=================================
     counter -->
 
-    
-        <!--=================================
- Services Details -->
-
-        <section class="service-page-tab black-bg page-section-ptb">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 col-md-offset-2">
-                        <div class="section-title text-center">
-                            <h6 class="text-white">Services Details</h6>
-                            <h2 class="text-white title-effect">Know more about our services</h2>
-                            <p class="text-white">Webster has endless possibilities for creating stunning websites no
-                                matter what type of website.</p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 col-md-push-6">
-                        <video style="width:100%;height:100%;" poster="video/video.jpg" controls preload="none">
-                            <source type="video/mp4" src="video/video.mp4" />
-                            <source type="video/webm" src="video/video-webm" />
-                            <source type="video/ogg" src="video/video.ogv" />
-                        </video>
-                    </div>
-                    <div class="col-md-6 col-md-6 sm-mt-30 col-md-pull-6">
-                        <div class="tab round">
-                            <ul class="nav nav-tabs">
-                                <li class="active"><a href="#research-07" data-toggle="tab"> <i
-                                            class="fa fa-file-excel-o"></i> Research</a></li>
-                                <li><a href="#design-07" data-toggle="tab"> <i class="fa fa-paint-brush"></i> Design</a>
-                                </li>
-                                <li><a href="#develop-07" data-toggle="tab"> <i class="fa fa-code"></i> Develop</a></li>
-                            </ul>
-                            <div class="tab-content">
-                                <div class="tab-pane fade in active" id="research-07">
-                                    <p class="text-white">Dolor sit amet, consectetur adipisicing elit. Vero quod
-                                        conseqt quibusdam, Vero quod conseqt enim expedita sed quia nesciunt incidunt
-                                        accusamus necessitatibus modi adipis official Dolor sit amet, consectetur
-                                        adipisicing elit. </p>
-                                    <p class="text-white">Vero quod conseqt quibusdam, enim expedita modi adipisci
-                                        officia Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt
-                                        quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus
-                                        modi adipis official Dolor sit amet, consectetur adipisicing elit. </p>
-                                </div>
-                                <div class="tab-pane fade" id="design-07">
-                                    <p class="text-white">Sed quia nesciunt incidunt accusamus dolor sit amet, conseqt
-                                        quibusdam, enim expedita necessitatibus modi adipis official Dolor sit amet,
-                                        consectetur adipisicing elit. </p><br>
-                                    <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                        Necessitatibus ipsa nisi tempore id commodi quam quibusdam, error sequi eaque
-                                        enim! Cupiditate impedit ea temporibus a in dolores facere vero perspiciatis.
-                                    </p>
-                                </div>
-                                <div class="tab-pane fade" id="develop-07">
-                                    <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                        Distinctio, at perspiciatis. Perferendis voluptatem obcaecati impedit iste
-                                        fugiat eius iusto harum quaerat quisquam ipsum, alias nihil qui error eaque
-                                        explicabo, pariatur, voluptas maiores repellat. Ullam saepe assumenda
-                                        voluptatum, dignissimos dolor impedit libero sunt eius omnis cum maxime. Qui
-                                        error, perspiciatis enim reiciendis odio minima ab facilis dolor fugiat. Atque
-                                        aperiam est ut dicta, illo rerum architecto aliquid quaerat! Obcaecati itaque
-                                        assumenda recusandae tenetur, ullam qui perferendis alias veniam eaque, sit
-                                        reiciendis quod, ab voluptatem ea earum nostrum maxime ad molestiae quasi.</p>
-                                </div>
-
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!--=================================
- Services Details-->
-
 
         <!--=================================
  footer -->
@@ -337,7 +260,6 @@ counter -->
  footer -->
 
     </div>
-
 
 
     <div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-angle-up"></i> <span>TOP</span></a></div>

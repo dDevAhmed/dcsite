@@ -1,5 +1,9 @@
+/*******************
+sticky side nav on services page
+*******************/
+
 // When the user scrolls the page, execute myFunction
-window.onscroll = function() {myFunction()};
+window.onscroll = function () { myFunction() };
 
 // Get the navbar
 var navbar = document.getElementById("sticky-side");
@@ -15,3 +19,22 @@ function myFunction() {
     navbar.classList.remove("sticky");
   }
 }
+
+
+/*******************
+copy to click board button on service page
+*******************/
+const clickToCopyBtn = document.querySelector('.click-to-copy-btn');
+clickToCopyBtn.onclick = () => {
+  navigator.clipboard.writeText(window.location.href);
+
+  // show copied
+  // var tooltip = document.getElementsByClassName("tooltip-content");
+  // tooltip.innerHTML = "Copied";
+}
+
+// show copied
+// function outFunc() {
+//   var tooltip = document.getElementsByClassName("tooltip-content");
+//   tooltip.innerHTML = "Copied";
+// }

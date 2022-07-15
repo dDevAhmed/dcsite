@@ -50,6 +50,9 @@
                     <div class="item">
                         <img class="center-block img-responsive" src="images/clients/fcc.png" alt="">
                     </div>
+                    <div class="item">
+                        <img class="center-block img-responsive" src="images/clients/fairview.png" alt="">
+                    </div>
                 </div>
             </div>
         </div>

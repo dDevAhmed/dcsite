@@ -121,26 +121,12 @@ page-title -->
                                 <div class="entry-title mb-10">
                                     <a href="#">Raised Floor</a>
                                 </div>
-                                <div class="entry-meta mb-10">
-                                    <ul>
-                                        <li> <i class="fa fa-folder-open-o"></i> <a href="#"> Design,</a> <a href="#">
-                                                HTML5 </a> </li>
-                                        <li><a href="#"><i class="fa fa-comment-o"></i> 5</a></li>
-                                        <li><a href="#"><i class="fa fa-calendar-o"></i> 12 Aug 2017</a></li>
-                                    </ul>
-                                </div>
                                 <div class="entry-content">
-                                    <p>A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. consectetur,
-                                        assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                        Quae laboriosam sunt hic perspiciatis, asperiores mollitia excepturi
-                                        voluptatibus sequi nostrum ipsam veniam omnis nihil! </p>
+                                    <p>A raised floor is a data center construction model in which a slightly higher floor is constructed above the building's original concrete slab floor, leaving the open space created between the two for wiring or cooling infrastructure. Raised floors systems give both user and building owner flexibility on how the workspace can be used and reconfigured. The ability to route and re-route services, such as data, power, telecoms and cooling delivers enormous flexibility.<br><br>
+                                    
+                                    At Darussalam Computers we supply and install raised access flooring with a variety of special-bonded finishes suitable for modern offices, server rooms, data centers, high-spec boardrooms, reception areas or spaces which need to accommodate disabled or impaired mobility access.We have extensive experience in delivering quality installations, ranging from small computer rooms to entire office blocks. Our products are of high quality materials and standards of finish. We have at our disposal trained installation teams that are locally based.</p>
                                 </div>
                                 <div class="entry-share clearfix">
-                                    <div class="entry-button">
-                                        <a class="button arrow" href="#">Read More<i class="fa fa-angle-right"
-                                                aria-hidden="true"></i></a>
-                                    </div>
                                     <div class="social list-style-none pull-right">
                                         <strong>Share : </strong>
                                         <ul>
@@ -151,10 +137,10 @@ page-title -->
                                                 <a href="#"> <i class="fa fa-twitter"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#"> <i class="fa fa-pinterest-p"></i> </a>
+                                                <a href="#"> <i class="fa fa-whatsapp"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#"> <i class="fa fa-dribbble"></i> </a>
+                                                <a href="#" class="click-to-copy-btn"><span class="tooltip-content" data-original-title="copy" data-toggle="tooltip" data-placement="top"> <i class="fa fa-copy"></i> </span></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -188,97 +174,6 @@ page-title -->
                                         </div>
                                     </li>
                                 </ul>
-                            </div>
-                            <div class="blog-detail">
-                                <div class="entry-title mb-10">
-                                    <a href="#">Blogpost With Image Grid Gallery Format </a>
-                                </div>
-                                <div class="entry-meta mb-10">
-                                    <ul>
-                                        <li> <i class="fa fa-folder-open-o"></i> <a href="#"> Design,</a> <a href="#">
-                                                HTML5 </a> </li>
-                                        <li><a href="#"><i class="fa fa-comment-o"></i> 5</a></li>
-                                        <li><a href="#"><i class="fa fa-calendar-o"></i> 12 Aug 2017</a></li>
-                                    </ul>
-                                </div>
-                                <div class="entry-content">
-                                    <p>Veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet,
-                                        consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                                        dolore magna aliqua consectetur, assumenda provident lorem ipsum dolor sit amet,
-                                        consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, asperiores
-                                        mollitia excepturi voluptatibus sequi nostrum ipsam.</p>
-                                </div>
-                                <div class="entry-share clearfix">
-                                    <div class="entry-button">
-                                        <a class="button arrow" href="#">Read More<i class="fa fa-angle-right"
-                                                aria-hidden="true"></i></a>
-                                    </div>
-                                    <div class="social list-style-none pull-right">
-                                        <strong>Share : </strong>
-                                        <ul>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-facebook"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-twitter"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-pinterest-p"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-dribbble"></i> </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <!-- ================================================ -->
-                        <div class="blog-entry mb-50">
-                            <div class="blog-detail">
-                                <div class="entry-title mb-10">
-                                    <a href="#">Blogpost Without Image</a>
-                                </div>
-                                <div class="entry-meta mb-10">
-                                    <ul>
-                                        <li> <i class="fa fa-folder-open-o"></i> <a href="#"> Design,</a> <a href="#">
-                                                HTML5 </a> </li>
-                                        <li><a href="#"><i class="fa fa-comment-o"></i> 5</a></li>
-                                        <li><a href="#"><i class="fa fa-calendar-o"></i> 12 Aug 2017</a></li>
-                                    </ul>
-                                </div>
-                                <div class="entry-content">
-                                    <p>Asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis
-                                        nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur
-                                        adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                                        aliqua. consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur
-                                        adipisicing elit. Quae laboriosam sunt hic perspiciatis</p>
-                                </div>
-                                <div class="entry-share clearfix">
-                                    <div class="entry-button">
-                                        <a class="button arrow" href="#">Read More<i class="fa fa-angle-right"
-                                                aria-hidden="true"></i></a>
-                                    </div>
-                                    <div class="social list-style-none pull-right">
-                                        <strong>Share : </strong>
-                                        <ul>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-facebook"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-twitter"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-pinterest-p"></i> </a>
-                                            </li>
-                                            <li>
-                                                <a href="#"> <i class="fa fa-dribbble"></i> </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
