@@ -20,17 +20,17 @@
             <div class="item">
                 <div class="testimonial-widget">
                     <div class="testimonial-content">
-                        <p>Webster provide me consectetur adipisicing elit. Voluptatum dignissimos
-                            amet numquam at est eum libero repellat reiciendis! Accusamus quibusdam.
+                        <p>Darussalam Computers has been my #1 trusted partner for information technology services. Their team of supportive staff and professionalism 
+is really amazing. My experience with them has helped boost my business with smarter tools and drove growth with business collaborations.
                         </p>
                     </div>
                     <div class="testimonial-info mt-20">
                         <div class="testimonial-avtar">
-                            <img class="img-responsive" src="images/team/01.jpg" alt="">
+                            <img class="img-responsive" src="images/clientreviews/client-avatar.png" alt="">
                         </div>
                         <div class="testimonial-name">
-                            <strong>Michael Bean</strong>
-                            <span>Project Manager</span>
+                            <strong>Traffik Driving School</strong>
+                            <span>CEO</span>
                         </div>
                     </div>
                 </div>
@@ -38,17 +38,50 @@
             <div class="item">
                 <div class="testimonial-widget">
                     <div class="testimonial-content">
-                        <p>I am happy with webster service adipisicing elit. Voluptatum dignissimos
-                            amet libero repellat reiciendis! Accusamus quibusdam numquam at est eum.
+                        <p>Working with Darussalam Computer had been one of the greatest achievements for our company. Their customer service was amazing and helped me out many times. The social media service provided to our company has helped us reach more customers and doubled our revenue which led to tremendous customer satisfaction.
                         </p>
                     </div>
                     <div class="testimonial-info mt-20">
                         <div class="testimonial-avtar">
-                            <img class="img-responsive" src="images/team/01.jpg" alt="">
+                            <img class="img-responsive" src="images/clientreviews/client-avatar.png" alt="">
                         </div>
                         <div class="testimonial-name">
-                            <strong>Paul Flavius</strong>
-                            <span>Design</span>
+                            <strong>Gillyams</strong>
+                            <span>Manager</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonial-widget">
+                    <div class="testimonial-content">
+                        <p>My encounter with Darussalam Computers has helped our organization in many ways. The new school portal deployed by Darussalam Computers has really changed the way we work. It has given us the ability to deliver on time, bosted our team efficiency, and has brought immense value to our organization. This has saved us time and resources.
+                        </p>
+                    </div>
+                    <div class="testimonial-info mt-20">
+                        <div class="testimonial-avtar">
+                            <img class="img-responsive" src="images/clientreviews/client-avatar.png" alt="">
+                        </div>
+                        <div class="testimonial-name">
+                            <strong>Jamal Secondary School</strong>
+                            <span>Principal</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="testimonial-widget">
+                    <div class="testimonial-content">
+                        <p>I have used Darussalam Computers' services in many ways and am in love with their professionalism. Their creative designs have helped our brand stand out and enable us to reach more customers than ever. Working with them has been a great experience. Darussalam Computers is the perfect IT firm for anyone looking to expand their customer reach.
+                        </p>
+                    </div>
+                    <div class="testimonial-info mt-20">
+                        <div class="testimonial-avtar">
+                            <img class="img-responsive" src="images/clientreviews/client-avatar.png" alt="">
+                        </div>
+                        <div class="testimonial-name">
+                            <strong>Keen Fashion</strong>
+                            <span>Manager</span>
                         </div>
                     </div>
                 </div>

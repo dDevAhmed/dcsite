@@ -14,14 +14,10 @@ forms
 show copied on tooltip = service page
 social share links
 instagram link
-portfolio page partners images resize
 
 ===content
-	about
-		unique process
-		clients reviews
-		portfolio
-			pictures = 800 X 600
+    awards pictures
+    services more picture X4
 
 ===logos remain
 newtraffordbrigde

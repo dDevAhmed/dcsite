@@ -206,9 +206,7 @@ work-process -->
                         <div class="section-title">
                             <h6 class="text-white">Work Process</h6>
                             <h2 class="text-white title-effect">Our Unique Process System</h2>
-                            <p class="text-white">Know our process and Possimus delectus ex, harum, quis rerum maxime in
-                                magnam.
-                                lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                            <p class="text-white">Helps boost organisation's productivity and drive business growth. </p>
                         </div>
                         <div class="tab round">
                             <ul class="nav nav-tabs">
@@ -218,25 +216,13 @@ work-process -->
                             </ul>
                             <div class="tab-content">
                                 <div class="tab-pane fade in active" id="research-07">
-                                    <p class="text-white">We'll go over your goals, styles you like, layouts & color you
-                                        like and your
-                                        projects need. Enim expedita sed quia nesciunt incidunt accusamus necessitatibus
-                                        modi adipis
-                                        official Dolor sit amet consectetur adipisicing elit. </p>
+                                    <p class="text-white">We'll go over your goals and your project need. Here we identify market needs, collect ideas on how the project will impact on consumer and client experience, and how the project will take to improve performance in the coming period. </p>
                                 </div>
                                 <div class="tab-pane fade" id="design-07">
-                                    <p class="text-white">Here we will take everything we learned during planning and
-                                        create the design
-                                        that all you want. modi adipis official Dolor sit amet, consectetur adipisicing
-                                        elit. Vero quod
-                                        conseqt quibusdam Vero quod conseqt enim. </p>
+                                    <p class="text-white">Here we will take everything we learned during planning and create the design that all you want. We then conceptualize and build the project roadmap focusing on consumer, cost and benefit, and the resources required. </p>
                                 </div>
                                 <div class="tab-pane fade" id="develop-07">
-                                    <p class="text-white">After we have the look for the projects, we will need to code
-                                        this. all the
-                                        functionality in place. voluptatem obcaecati impedit iste fugiat eius iusto
-                                        harum quaerat quisquam
-                                        ipsum, alias nihil qui error eaque explicabo.</p>
+                                    <p class="text-white">After we have the look for the project, we will need to code this. Putting together all the functionality in place, we bring your vision for an original product/service to life. The process doesn’t end until the project life cycle is over.</p>
                                 </div>
                             </div>
                         </div>
@@ -267,64 +253,45 @@ work-process -->
                             <div class="tab-content">
                                 <div class="tab-pane fade in active" id="testi-01">
                                     <span class="quoter-icon">“</span>
-                                    <p>I had a few things I needed help with on this template... Their customer service
-                                        was amazing and
-                                        helped me out many times. All fits and works well and good!! Top marks. One of
-                                        the complete template
-                                        with different requirements. Thanks a lot for such great features, pages,
-                                        shortcodes and home
-                                        variations. Incredible Job.</p>
+                                    <p>Darussalam Computers has been my #1 trusted partner for information technology services. Their team of supportive staff and professionalism 
+is really amazing. My experience with them has helped boost my business with smarter tools and drove growth with business collaborations.</p>
                                     <div class="testimonial-avatar">
-                                        <h5>Acapella </h5>
-                                        <span>Managing Director Peugeot Automobile of Nigeria (PAN)</span>
+                                        <h5>Traffik Driving School </h5>
+                                        <span>CEO</span>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="testi-02">
                                     <span class="quoter-icon">“</span>
-                                    <p>Really like the cleanliness of the design, the documentation and the
-                                        content-blocks. Obviously it
-                                        is still a relatively new template (version 1.0.3), so it lacks some features
-                                        that you'll find in
-                                        more mature templates. But their support is swift and very co-operative. Kudos!
+                                    <p>Working with Darussalam Computer had been one of the greatest achievements for our company. Their customer service was amazing and helped me out many times. The social media service provided to our company has helped us reach more customers and doubled our revenue which led to tremendous customer satisfaction.
                                     </p>
                                     <div class="testimonial-avatar">
-                                        <h5>Tenfore </h5>
-                                        <span>Director Industrial Training Fund (ITF)</span>
+                                        <h5>Gillyams </h5>
+                                        <span>Manager</span>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="testi-03">
                                     <span class="quoter-icon">“</span>
-                                    <p> One of the complete template with different requirements. Thanks a lot for such
-                                        great features,
-                                        pages, shortcodes and home variations. Incredible Job. I had a few things I
-                                        needed help with on this
-                                        template... Their customer service was amazing and helped me out many times. All
-                                        fits and works well
-                                        and good!! Top marks.</p>
+                                    <p> My encounter with Darussalam Computers has helped our organization in many ways. The new school portal deployed by Darussalam Computers has really changed the way we work. It has given us the ability to deliver on time, bosted our team efficiency, and has brought immense value to our organization. This has saved us time and resources.</p>
                                     <div class="testimonial-avatar">
-                                        <h5>Acapella </h5>
-                                        <span>Registra Usman Danfodio University</span>
+                                        <h5>Jamal Secondary School </h5>
+                                        <span>Principal</span>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="testi-04">
                                     <span class="quoter-icon">“</span>
-                                    <p>The quality of design is very good and make sense to the real world requirement.
-                                        yes its
-                                        multipurpose template and i found what i wanted from this theme. perfectly
-                                        suitable for my business
-                                        and design is flexible with multiple layout provided. good work keep it up.</p>
+                                    <p>I have used Darussalam Computers' services in many ways and am in love with their professionalism. Their creative designs have helped our brand stand out and enable us to reach more customers than ever. Working with them has been a great experience. Darussalam Computers is the perfect IT firm for anyone looking to expand their customer reach.</p>
                                     <div class="testimonial-avatar">
-                                        <h5>Shopperbox </h5>
-                                        <span>Director ICT Central Bank of Nigeria</span>
+                                        <h5>Keen Fashion </h5>
+                                        <span>Manager</span>
                                     </div>
                                 </div>
                                 <ul class="nav nav-tabs mt-60">
-                                    <li class="active"><a href="#testi-01" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-1.jpg" alt=""> </a></li>
-                                    <li><a href="#testi-02" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-2.jpg" alt="">
+                                    <li class="active"><a href="#testi-01" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-avatar-dark.png" alt=""> </a></li>
+                                    <li><a href="#testi-02" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-avatar-dark.png" alt="">
                                         </a></li>
-                                    <li><a href="#testi-03" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-3.jpg" alt="">
+                                    <li><a href="#testi-03" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-avatar-dark.png" alt="">
                                         </a></li>
-                                    <li><a href="#testi-04" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-4.jpg" alt="">
+                                    <li><a href="#testi-04" data-toggle="tab"><img class="img-responsive" src="images/clientreviews/client-avatar-dark.png" alt="">
                                         </a></li>
                                 </ul>
                             </div>
