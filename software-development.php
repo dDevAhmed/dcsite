@@ -153,22 +153,22 @@ page-title -->
                                 <ul class="grid-post">
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/05.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/06.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/07.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/08.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
                                         </div>
                                     </li>
                                 </ul>

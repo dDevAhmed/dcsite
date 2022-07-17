@@ -4,7 +4,7 @@
         <h6 class="mt-40 mb-20">Services</h6>
         <ul class="widget-categories">
             <li><a href="software-development.php"><i class="fa fa-angle-double-right"></i>Software Development</a></li>
-            <li><a href="computer-networking.php"><i class="fa fa-angle-double-right"></i>Computer Netwoking</a></li>
+            <li><a href="computer-networking.php"><i class="fa fa-angle-double-right"></i>Computer Networking</a></li>
             <li><a href="web-development.php"><i class="fa fa-angle-double-right"></i>Web Development</a></li>
             <li><a href="graphic-design.php"><i class="fa fa-angle-double-right"></i>Graphic Design</a></li>
             <li class="active"><a href="bulk-sms.php"><i class="fa fa-angle-double-right"></i>Bulk SMS</a></li>

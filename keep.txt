@@ -17,7 +17,7 @@ icdl action box link to certification page
 
 ===content
     awards pictures
-    services more picture X4
+    services more picture X4 = 870 X 400
 
 ===logos remain
 newtraffordbrigde
