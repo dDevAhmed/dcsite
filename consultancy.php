@@ -129,13 +129,13 @@ page-title -->
                                         <strong>Share : </strong>
                                         <ul>
                                             <li>
-                                                <a href="#"> <i class="fa fa-facebook"></i> </a>
+                                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://dc-site.herokuapp.com/consultancy.php" target="_blank"> <i class="fa fa-facebook"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#"> <i class="fa fa-twitter"></i> </a>
+                                                <a href="https://twitter.com/intent/tweet?url=https://dc-site.herokuapp.com/consultancy.php&text=Consultacy%20Service%20by%20Darussalam%20Computers.&hashtags=consult,consulting,information,technology" target="_blank"> <i class="fa fa-twitter"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#"> <i class="fa fa-whatsapp"></i> </a>
+                                                <a href="https://api.whatsapp.com/send?text=https://dc-site.herokuapp.com/consultancy.php" target="_blank"> <i class="fa fa-whatsapp"></i> </a>
                                             </li>
                                             <li>
                                                 <a href="#" class="click-to-copy-btn"><span class="tooltip-content" data-original-title="copy" data-toggle="tooltip" data-placement="top"> <i class="fa fa-copy"></i> </span></a>

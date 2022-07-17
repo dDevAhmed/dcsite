@@ -12,8 +12,8 @@ pages not index header caption
 forms
     newsletter
 show copied on tooltip = service page
-social share links
 instagram link
+icdl action box link to certification page
 
 ===content
     awards pictures
