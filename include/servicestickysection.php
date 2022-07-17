@@ -7,7 +7,7 @@
             <li><a href="computer-networking.php"><i class="fa fa-angle-double-right"></i>Computer Networking</a></li>
             <li><a href="web-development.php"><i class="fa fa-angle-double-right"></i>Web Development</a></li>
             <li><a href="graphic-design.php"><i class="fa fa-angle-double-right"></i>Graphic Design</a></li>
-            <li class="active"><a href="bulk-sms.php"><i class="fa fa-angle-double-right"></i>Bulk SMS</a></li>
+            <li><a href="bulk-sms.php"><i class="fa fa-angle-double-right"></i>Bulk SMS</a></li>
             <li><a href="cctv-installation.php"><i class="fa fa-angle-double-right"></i>CCTV Installation</a></li>
             <li><a href="raised-floor.php"><i class="fa fa-angle-double-right"></i>Raised Floor</a></li>
             <li><a href="consultancy.php"><i class="fa fa-angle-double-right"></i>Consultancy</a></li>

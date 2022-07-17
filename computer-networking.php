@@ -8,8 +8,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Webster - Multi-Purpose HTML5 Template" />
+    <meta name="keywords" content="Darussalam Computers Information Technology" />
+    <meta name="description" content="Darussalam Computers - Information Technology Company" />
     <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <title>Computer Networking - Darussalam Computers</title>
@@ -92,7 +92,7 @@ page-title-->
                         </div>
                         <ul class="page-breadcrumb">
                             <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-                            <li><a href="services.html"> Services</a> <i class="fa fa-angle-double-right"></i></li>
+                            <li><a href="services.php"> Services</a> <i class="fa fa-angle-double-right"></i></li>
                             <li><span>Computer Networking</span> </li>
                         </ul>
                     </div>

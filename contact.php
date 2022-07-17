@@ -8,8 +8,8 @@ $currentPge = "contact";
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Webster - Multi-Purpose HTML5 Template" />
+    <meta name="keywords" content="Darussalam Computers Information Technology" />
+    <meta name="description" content="Darussalam Computers - Information Technology Company" />
     <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <title>Contact - Darussalam Computers</title>

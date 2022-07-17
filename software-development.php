@@ -8,8 +8,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Webster - Multi-Purpose HTML5 Template" />
+    <meta name="keywords" content="Darussalam Computers Information Technology" />
+    <meta name="description" content="Darussalam Computers - Information Technology Company" />
     <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <title>Software Development - Darussalam Computers</title>
@@ -94,7 +94,7 @@ page-title-->
                         <ul class="page-breadcrumb">
                             <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i
                                     class="fa fa-angle-double-right"></i></li>
-                            <li><a href="services.html"> Services</a> <i class="fa fa-angle-double-right"></i></li>
+                            <li><a href="services.php"> Services</a> <i class="fa fa-angle-double-right"></i></li>
                             <li><span>Software Development</span> </li>
                         </ul>
                     </div>
@@ -153,22 +153,22 @@ page-title -->
                                 <ul class="grid-post">
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software-1.png" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software-2.png" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software-3.png" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/services/moreservices/software/software.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/software/software-4.png" alt="">
                                         </div>
                                     </li>
                                 </ul>
