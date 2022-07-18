@@ -136,7 +136,7 @@ page-title -->
                                                 <a href="https://api.whatsapp.com/send?text=https://dc-site.herokuapp.com/computer-networking.php" target="_blank"> <i class="fa fa-whatsapp"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#" class="click-to-copy-btn"><span class="tooltip-content" data-original-title="copy" data-toggle="tooltip" data-placement="top"> <i class="fa fa-copy"></i> </span></a>
+                                                <a href="#" class="click-to-copy-btn"><span class="tooltip-content show-copied" data-original-title="copy" data-toggle="tooltip" data-placement="top"> <i class="fa fa-copy"></i> </span></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -151,22 +151,22 @@ page-title -->
                                 <ul class="grid-post">
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/05.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/networking/networking-1.jpg" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/06.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/networking/networking-2.jpg" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/07.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/networking/networking-3.jpg" alt="">
                                         </div>
                                     </li>
                                     <li>
                                         <div class="portfolio-item">
-                                            <img class="img-responsive" src="images/blog/08.jpg" alt="">
+                                            <img class="img-responsive" src="images/services/moreservices/networking/networking-4.jpg" alt="">
                                         </div>
                                     </li>
                                 </ul>
@@ -233,6 +233,18 @@ page-title -->
     <?php
         include_once('include/webchat.php');
     ?>
+
+    <!-- show copied on tooltip -->
+    <script>
+        $(document).ready(function(){
+            $('[data-toggle="tooltip"]').click(function(){
+                $('.show-copied').attr('data-original-title', 'Copied')
+                    .tooltip('fixTitle')
+                    .tooltip('show')
+                    .attr('data-original-title', 'Copy');
+            });    
+        });
+    </script>
 
 </body>
 

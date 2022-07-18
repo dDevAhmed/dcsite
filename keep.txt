@@ -11,13 +11,12 @@ pages not index header caption
     contact
 forms
     newsletter
-show copied on tooltip = service page
+stop scroll page to top when copy btn click
 instagram link
 icdl action box link to certification page
 
 ===content
     awards pictures
-    services more picture X4 = 870 X 400 === 200 X 100
 
 ===logos remain
 newtraffordbrigde
