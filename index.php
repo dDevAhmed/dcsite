@@ -91,6 +91,17 @@ icdl action-box-->
 icdl action-box-->
 
 
+        <!--=================================
+sample projects-->
+
+        <?php
+            include_once('include/sampleprojects.php');
+        ?>
+
+        <!--=================================
+sample project-->
+
+
     <!--=================================
 clients  -->
 

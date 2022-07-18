@@ -17,7 +17,7 @@
                 <div class="footer-useful-link footer-hedding">
                     <h6 class="text-white mb-30 mt-10 text-uppercase">Useful Links</h6>
                     <ul>
-                        <li><a href="portfolio.php">Portfolio</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
                         <li><a href="#">Academy</a></li>
                         <li><a href="#">Certifications</a></li>
                         <li><a href="#">Corperate Trainings</a></li>
@@ -43,12 +43,12 @@
                 <p>Sign Up to our Newsletter to get the latest news and offers.</p>
                 <div class="footer-Newsletter">
                     <div id="mc_embed_signup_scroll">
-                        <form action="php/mailchimp-action.php" method="POST" id="mc-embedded-subscribe-form"
+                        <form action="php/subscribe-process.php" method="POST" id="mc-embedded-subscribe-form"
                             name="mc-embedded-subscribe-form" class="validate">
                             <div id="msg"> </div>
                             <div id="mc_embed_signup_scroll_2">
                                 <input id="mce-EMAIL" class="form-control" type="text" placeholder="Email address"
-                                    name="email1" value="">
+                                    name="subscribe-email" value="">
                             </div>
                             <div id="mce-responses" class="clear">
                                 <div class="response" id="mce-error-response" style="display:none"></div>
@@ -59,7 +59,7 @@
                                 <input type="text" name="b_b7ef45306f8b17781aa5ae58a_6b09f39a55" tabindex="-1" value="">
                             </div>
                             <div class="clear">
-                                <button type="submit" name="submitbtn" id="mc-embedded-subscribe"
+                                <button type="submit" name="subscribe-email-btn" id="mc-embedded-subscribe"
                                     class="button border mt-20 form-button"> Get notified </button>
                             </div>
                         </form>

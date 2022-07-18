@@ -19,12 +19,12 @@
 
                                 <li class=<?php if($currentPge == "home"){ echo "active"; } ?> ><a href="index.php"> Home </a></li>
 
-                                <li class=<?php if(($currentPge == "about")||($currentPge == "portfolio")){ echo "active"; } ?> ><a href="javascript:void(0)"> About <i
+                                <li class=<?php if(($currentPge == "about")||($currentPge == "gallery")){ echo "active"; } ?> ><a href="javascript:void(0)"> About <i
                                             class="fa fa-angle-down fa-indicator"></i></a>
                                     <!-- drop down multilevel  -->
                                     <ul class="drop-down-multilevel">
                                         <li><a href="about.php">About Us </a></li>
-                                        <li><a href="portfolio.php">Portfolio </a></li>
+                                        <li><a href="gallery.php">Gallery </a></li>
                                     </ul>
                                 </li>
 

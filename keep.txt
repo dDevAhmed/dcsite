@@ -11,12 +11,11 @@ pages not index header caption
     contact
 forms
     newsletter
-stop scroll page to top when copy btn click
+!!!stop scroll page to top when copy btn click
 instagram link
 icdl action box link to certification page
+academy price table
 
-===content
-    awards pictures
 
 ===logos remain
 newtraffordbrigde

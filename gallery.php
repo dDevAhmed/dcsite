@@ -1,5 +1,5 @@
 <?php 
-    $currentPge = "portfolio";
+    $currentPge = "gallery";
 ?>
 
 <!DOCTYPE html>
@@ -12,7 +12,7 @@
     <meta name="description" content="Darussalam Computers - Information Technology Company" />
     <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Portfolio - Darussalam Computers</title>
+    <title>Gallery - Darussalam Computers</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/dcLogo.png" />

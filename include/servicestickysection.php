@@ -20,7 +20,7 @@
             <div class="item">
                 <div class="testimonial-widget">
                     <div class="testimonial-content">
-                        <p>Darussalam Computers has been my #1 trusted partner for information technology services. Their team of supportive staff and professionalism 
+                        <p>Darussalam Computers has been our #1 trusted partner for information technology services. Their team of supportive staff and professionalism 
 is really amazing. My experience with them has helped boost my business with smarter tools and drove growth with business collaborations.
                         </p>
                     </div>
@@ -38,7 +38,7 @@ is really amazing. My experience with them has helped boost my business with sma
             <div class="item">
                 <div class="testimonial-widget">
                     <div class="testimonial-content">
-                        <p>Working with Darussalam Computer had been one of the greatest achievements for our company. Their customer service was amazing and helped me out many times. The social media service provided to our company has helped us reach more customers and doubled our revenue which led to tremendous customer satisfaction.
+                        <p>Working with Darussalam Computers had been one of the greatest achievements for our company. Their customer service was amazing and helped me out many times. The social media service provided to our company has helped us reach more customers and doubled our revenue which led to tremendous customer satisfaction.
                         </p>
                     </div>
                     <div class="testimonial-info mt-20">
@@ -46,7 +46,7 @@ is really amazing. My experience with them has helped boost my business with sma
                             <img class="img-responsive" src="images/clientreviews/client-avatar.png" alt="">
                         </div>
                         <div class="testimonial-name">
-                            <strong>Gillyams</strong>
+                            <strong>Gillycious Chops and More</strong>
                             <span>Manager</span>
                         </div>
                     </div>
