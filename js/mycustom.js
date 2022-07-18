@@ -28,3 +28,8 @@ const clickToCopyBtn = document.querySelector('.click-to-copy-btn');
 clickToCopyBtn.onclick = () => {
   navigator.clipboard.writeText(window.location.href);
 }
+// stop scrolling to top
+document.getElementById('#show-copied').addEventListener('click', function (e) {
+  e.preventDefault();
+  // doSomething();
+})
