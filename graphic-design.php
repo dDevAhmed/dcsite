@@ -138,7 +138,7 @@ page-title -->
                                                 <a href="https://api.whatsapp.com/send?text=https://dc-site.herokuapp.com/graphic-design.php" target="_blank"> <i class="fa fa-whatsapp"></i> </a>
                                             </li>
                                             <li>
-                                                <a href="#" class="click-to-copy-btn"><span class="tooltip-content show-copied" data-original-title="copy" data-toggle="tooltip" data-placement="top"> <i class="fa fa-copy"></i> </span></a>
+                                                <a href="javascript:void(0);" class="click-to-copy-btn"><span class="tooltip-content show-copied" data-original-title="copy" data-toggle="tooltip" data-placement="top"> <i class="fa fa-copy"></i> </span></a>
                                             </li>
                                         </ul>
                                     </div>
