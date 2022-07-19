@@ -43,12 +43,12 @@
                 <p>Sign Up to our Newsletter to get the latest news and offers.</p>
                 <div class="footer-Newsletter">
                     <div id="mc_embed_signup_scroll">
-                        <form action="php/subscribe-process.php" method="POST" id="mc-embedded-subscribe-form"
-                            name="mc-embedded-subscribe-form" class="validate">
+                        <form action="subscribe-process.php" method="post" id="newsletter-subscribe-form"
+                            name="newsletter-subscribe-form" class="validate">
                             <div id="msg"> </div>
-                            <div id="mc_embed_signup_scroll_2">
-                                <input id="mce-EMAIL" class="form-control" type="text" placeholder="Email address"
-                                    name="subscribe-email" value="">
+                            <div id="">
+                                <input id="subscribe-email" class="form-control" type="email" placeholder="Email address"
+                                    name="subscribe-email" value="" required>
                             </div>
                             <div id="mce-responses" class="clear">
                                 <div class="response" id="mce-error-response" style="display:none"></div>
@@ -59,8 +59,10 @@
                                 <input type="text" name="b_b7ef45306f8b17781aa5ae58a_6b09f39a55" tabindex="-1" value="">
                             </div>
                             <div class="clear">
-                                <button type="submit" name="subscribe-email-btn" id="mc-embedded-subscribe"
+                                <button type="submit" name="subscribe-email-btn" id="subscribe-email-btn"
                                     class="button border mt-20 form-button"> Get notified </button>
+                                    <!-- <a class="button border mt-20 form-button" href="php/subscribe-process.php" name="subscribe-email-btn"> Get notified </a> -->
+
                             </div>
                         </form>
                     </div>
@@ -85,3 +87,4 @@
         </div>
     </div>
 </footer>
+

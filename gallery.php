@@ -84,13 +84,13 @@ page-title-->
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="page-title-name">
-                            <h1>Portfolio</h1>
+                            <h1>Gallery</h1>
                             <p>We know the secret of your success</p>
                         </div>
                         <ul class="page-breadcrumb">
                             <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i
                                     class="fa fa-angle-double-right"></i></li>
-                            <li><span>portfolio</span> </li>
+                            <li><span>gallery</span> </li>
                         </ul>
                     </div>
                 </div>
@@ -134,7 +134,7 @@ page-title -->
                             ----------------------------->
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/end_of_year_1.JPG" alt="">
+                                    <img src="images/gallery/events/end_of_year_1.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
@@ -144,7 +144,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/end_of_year_2.JPG" alt="">
+                                    <img src="images/gallery/events/end_of_year_2.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
@@ -154,7 +154,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/end_of_year_3.JPG" alt="">
+                                    <img src="images/gallery/events/end_of_year_3.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
@@ -164,7 +164,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/end_of_year_4.JPG" alt="">
+                                    <img src="images/gallery/events/end_of_year_4.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
@@ -174,7 +174,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/end_of_year_5.JPG" alt="">
+                                    <img src="images/gallery/events/end_of_year_5.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
@@ -184,7 +184,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/book_launch_1.JPG" alt="">
+                                    <img src="images/gallery/events/book_launch_1.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
@@ -194,7 +194,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/book_launch_2.JPG" alt="">
+                                    <img src="images/gallery/events/book_launch_2.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
@@ -204,7 +204,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/book_launch_3.JPG" alt="">
+                                    <img src="images/gallery/events/book_launch_3.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
@@ -214,7 +214,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/book_launch_4.JPG" alt="">
+                                    <img src="images/gallery/events/book_launch_4.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
@@ -224,7 +224,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/book_launch_5.JPG" alt="">
+                                    <img src="images/gallery/events/book_launch_5.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
@@ -234,7 +234,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/book_launch_6.JPG" alt="">
+                                    <img src="images/gallery/events/book_launch_6.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
@@ -244,7 +244,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/naf_training_1.jpg" alt="">
+                                    <img src="images/gallery/events/naf_training_1.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> NAF Training </h4>
                                         <span class="text-white"> 2016 </span>
@@ -254,7 +254,7 @@ page-title -->
                             </div>
                             <div class="grid-item events">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/events/naf_training_2.jpg" alt="">
+                                    <img src="images/gallery/events/naf_training_2.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> NAF Training </h4>
                                         <span class="text-white"> 2016 </span>
@@ -268,7 +268,7 @@ page-title -->
                             ----------------------------->
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_1.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_1.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -278,7 +278,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_2.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_2.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -288,7 +288,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_3.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_3.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -298,7 +298,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_4.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_4.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -308,7 +308,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_5.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_5.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -318,7 +318,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_6.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_6.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -328,7 +328,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_7.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_7.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -338,7 +338,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_8.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_8.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -348,7 +348,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_9.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_9.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -358,7 +358,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_10.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_10.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -368,7 +368,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_11.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_11.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -378,7 +378,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_12.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_12.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -388,7 +388,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_13.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_13.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -398,7 +398,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/udu_sok_14.jpg" alt="">
+                                    <img src="images/gallery/projects/udu_sok_14.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
@@ -410,7 +410,7 @@ page-title -->
                             <!-- fcck -->
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_1.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_1.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -420,7 +420,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_2.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_2.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -430,7 +430,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_3.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_3.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -440,7 +440,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_4.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_4.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -450,7 +450,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_5.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_5.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -460,7 +460,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_6.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_6.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -470,7 +470,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_7.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_7.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -480,7 +480,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_8.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_8.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -490,7 +490,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_9.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_9.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -500,7 +500,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_10.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_10.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -510,7 +510,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_11.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_11.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -520,7 +520,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_12.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_12.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -530,7 +530,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_13.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_13.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -540,7 +540,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_14.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_14.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -550,7 +550,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_15.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_15.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -560,7 +560,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_16.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_16.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -570,7 +570,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_17.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_17.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -580,7 +580,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_18.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_18.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -590,7 +590,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_19.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_19.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -600,7 +600,7 @@ page-title -->
                             </div>
                             <div class="grid-item projects">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/projects/fcck_20.JPG" alt="">
+                                    <img src="images/gallery/projects/fcck_20.JPG" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
@@ -614,7 +614,7 @@ page-title -->
                             ----------------------------->
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/cbn.png" alt="">
+                                    <img src="images/gallery/partners/cbn.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Central Bank of Nigeria </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
@@ -624,7 +624,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/icdl.png" alt="">
+                                    <img src="images/gallery/partners/icdl.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> ICDL </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
@@ -634,7 +634,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/itf.jpg" alt="">
+                                    <img src="images/gallery/partners/itf.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Industrial Training Fund </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
@@ -644,7 +644,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/jamal.png" alt="">
+                                    <img src="images/gallery/partners/jamal.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Jamal Secondary </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
@@ -654,7 +654,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/kadpoly.png" alt="">
+                                    <img src="images/gallery/partners/kadpoly.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Kaduna Polytechnic </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
@@ -664,7 +664,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/kadunastate.png" alt="">
+                                    <img src="images/gallery/partners/kadunastate.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Kaduna State Government </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
@@ -674,7 +674,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/katsinajudiciary.png" alt="">
+                                    <img src="images/gallery/partners/katsinajudiciary.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Katsina Judiciary </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
@@ -684,7 +684,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/kca.png" alt="">
+                                    <img src="images/gallery/partners/kca.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Kaduna Central Academy </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
@@ -694,7 +694,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/peugeot.png" alt="">
+                                    <img src="images/gallery/partners/peugeot.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Peugeot Automobile Nigeria </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
@@ -704,7 +704,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/shell.png" alt="">
+                                    <img src="images/gallery/partners/shell.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Shell </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
@@ -714,7 +714,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/udus.jpg" alt="">
+                                    <img src="images/gallery/partners/udus.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->
@@ -724,7 +724,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/un.png" alt="">
+                                    <img src="images/gallery/partners/un.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> United Nations </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->
@@ -734,7 +734,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/fairview.png" alt="">
+                                    <img src="images/gallery/partners/fairview.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Fairview Consulting </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->
@@ -744,7 +744,7 @@ page-title -->
                             </div>
                             <div class="grid-item partners">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/partners/fcc.png" alt="">
+                                    <img src="images/gallery/partners/fcc.png" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->

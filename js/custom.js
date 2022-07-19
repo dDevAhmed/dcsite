@@ -493,36 +493,36 @@ POTENZA.masonry = function () {
 /*************************
      mailchimp
 *************************/
-  POTENZA.mailchimp = function () {
-         $(document).on('click','#mc-embedded-subscribe',function(event){
-          event.preventDefault();       
-          var email_id = $('#mce-EMAIL').val();
-          var val_email_id = validateEmail(email_id);        
-          if (email_id != "" && val_email_id === true) {
-              var failure_message = 'Whoops, looks like there was a problem. Please try again later.';
-              var memberid=email_id.toLowerCase();
-              var url = memberid;
+  // POTENZA.mailchimp = function () {
+  //        $(document).on('click','#mc-embedded-subscribe',function(event){
+  //         event.preventDefault();       
+  //         var email_id = $('#mce-EMAIL').val();
+  //         var val_email_id = validateEmail(email_id);        
+  //         if (email_id != "" && val_email_id === true) {
+  //             var failure_message = 'Whoops, looks like there was a problem. Please try again later.';
+  //             var memberid=email_id.toLowerCase();
+  //             var url = memberid;
               
-              $.ajax({
-                 type: 'POST',
-                 url: 'php/mailchimp-action.php',
-                 data: {url:url},
-                 dataType: 'json',
-                 success: function(data){
-                      $('#msg').html(data);           
-                 },
-              });
-          } else {
-              $('#msg').html('<p style="color: #EA4335">Enter the E-mail id</p>'); 
-              return false;    
-          }
-          return false;
-      });
-      function validateEmail(email) {
-          var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-          return re.test(email);
-      }             
-   }
+  //             $.ajax({
+  //                type: 'POST',
+  //                url: 'php/mailchimp-action.php',
+  //                data: {url:url},
+  //                dataType: 'json',
+  //                success: function(data){
+  //                     $('#msg').html(data);           
+  //                },
+  //             });
+  //         } else {
+  //             $('#msg').html('<p style="color: #EA4335">Enter the E-mail id</p>'); 
+  //             return false;    
+  //         }
+  //         return false;
+  //     });
+  //     function validateEmail(email) {
+  //         var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  //         return re.test(email);
+  //     }             
+  //  }
 
 /****************************************************
               pieChart

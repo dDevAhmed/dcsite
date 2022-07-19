@@ -28,3 +28,38 @@ const clickToCopyBtn = document.querySelector('.click-to-copy-btn');
 clickToCopyBtn.onclick = () => {
   navigator.clipboard.writeText(window.location.href);
 }
+
+
+/*******************
+validate email entry for newsletter
+*******************/
+// validateEmailFunc = function () {
+//   $(document).on('click', '#subscribe-email-btn', function (event) {
+//     event.preventDefault();
+//     var email_id = $('#subscribe-email').val();
+//     var val_email_id = validateEmail(email_id);
+//     if (email_id != "" && val_email_id === true) {
+//       var failure_message = 'Whoops, looks like there was a problem. Please try again later.';
+//       var memberid = email_id.toLowerCase();
+//       var url = memberid;
+
+//       $.ajax({
+//         type: 'POST',
+//         url: 'php/subscribe-process.php',
+//         data: { url: url },
+//         dataType: 'json',
+//         success: function (data) {
+//           $('#msg').html(data);
+//         },
+//       });
+//     } else {
+//       $('#msg').html('<p style="color: #EA4335">Enter the E-mail id</p>');
+//       return false;
+//     }
+//     return false;
+//   });
+//   function validateEmail(email) {
+//     var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+//     return re.test(email);
+//   }
+// }

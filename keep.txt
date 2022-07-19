@@ -15,6 +15,7 @@ forms
 instagram link
 icdl action box link to certification page
 academy price table
+more service pictures = distorted
 
 
 ===logos remain
@@ -24,6 +25,9 @@ garkuwa
 
 
 ===KEEP
+academy === Grow your skills, define your future.
+Presenting Academy, the tech school of the future. We teach you the right skills to be prepared for tomorrow.
+
 about === tranforming the way people and organizations work so they can achieve their greatest ambitions
 
 lets make great things together
