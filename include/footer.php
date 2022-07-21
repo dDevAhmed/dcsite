@@ -18,9 +18,9 @@
                     <h6 class="text-white mb-30 mt-10 text-uppercase">Useful Links</h6>
                     <ul>
                         <li><a href="gallery.php">Gallery</a></li>
-                        <li><a href="#">Academy</a></li>
-                        <li><a href="#">Certifications</a></li>
-                        <li><a href="#">Corperate Trainings</a></li>
+                        <li><a href="academy.php">Academy</a></li>
+                        <li><a href="certifications.php">Certifications</a></li>
+                        <li><a href="corperate-trainings.php">Corperate Trainings</a></li>
                         <li><a href="#">Portal</a></li>
                     </ul>
                 </div>
@@ -34,8 +34,7 @@
                     <li><i class="fa fa-phone"></i> <a href="tel:08123400001"> <span>+(234) 812-340-0001 </span>
                         </a>
                     </li>
-                    <li><i class="fa fa-envelope-o"></i><a
-                            href="mailto: info@darussalamcomputers.com">info@darussalamcomputers.com</a> </li>
+                    <li><i class="fa fa-envelope-o"></i><a href="mailto: info@darussalamcomputers.com">info@darussalamcomputers.com</a> </li>
                 </ul>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
@@ -43,12 +42,47 @@
                 <p>Sign Up to our Newsletter to get the latest news and offers.</p>
                 <div class="footer-Newsletter">
                     <div id="mc_embed_signup_scroll">
-                        <form action="subscribe-process.php" method="post" id="newsletter-subscribe-form"
-                            name="newsletter-subscribe-form" class="validate">
+                        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" id="newsletter-subscribe-form" name="newsletter-subscribe-form" class="validate">
+                            <?php
+                                //mysql connection parameters
+                                $hostname = "localhost";
+                                $user = "root";
+                                $pass = "";
+                                $dbname = "dcsite";
+
+                                $connection = mysqli_connect($hostname, $user, $pass, $dbname);
+
+                                $subscriberEmail = ""; //first we leave email field blank
+                                if (isset($_POST['subscribe-email-btn'])) { //if subscribe btn clicked
+                                    $subscriberEmail = $_POST['subscribe-email']; //getting user entered email
+                                    if (filter_var($subscriberEmail, FILTER_VALIDATE_EMAIL)) { //validating user email
+                                        $subject = "You have successfully subscribed - Darussalam Computers";
+                                        $message = "Thanks for subscribing to our newsletter. You'll always receive updates from us. And we won't share and sell your information.";
+                                        $sender = "From: info@darussalamcomputers.com";
+                                        //php function to send mail
+                                        if (mail($subscriberEmail, $subject, $message, $sender)) {
+                                            ?>
+                                            <!-- show sucess message once email send successfully -->
+                                            <div class="alert alert-success" role="alert">
+                                                <?php echo "You have successfully subscribed." ?>
+                                            </div>
+                                            <?php
+                                                mysqli_query($connection, "insert into subscribers values('', '" . $subscriberEmail . "');");
+                                                $subscriberEmail = "";
+                                            } else {
+                                                ?>
+                                                <!-- show error message if somehow mail can't be sent -->
+                                                <div class="alert alert-danger" role="alert">
+                                                    <?php echo "Failed while sending your mail!" ?>
+                                                </div>
+                                                <?php
+                                        }
+                                    } 
+                                }
+                            ?>
                             <div id="msg"> </div>
                             <div id="">
-                                <input id="subscribe-email" class="form-control" type="email" placeholder="Email address"
-                                    name="subscribe-email" value="" required>
+                                <input id="subscribe-email" class="form-control" type="email" placeholder="Email address" name="subscribe-email" value="" required>
                             </div>
                             <div id="mce-responses" class="clear">
                                 <div class="response" id="mce-error-response" style="display:none"></div>
@@ -59,9 +93,8 @@
                                 <input type="text" name="b_b7ef45306f8b17781aa5ae58a_6b09f39a55" tabindex="-1" value="">
                             </div>
                             <div class="clear">
-                                <button type="submit" name="subscribe-email-btn" id="subscribe-email-btn"
-                                    class="button border mt-20 form-button"> Get notified </button>
-                                    <!-- <a class="button border mt-20 form-button" href="php/subscribe-process.php" name="subscribe-email-btn"> Get notified </a> -->
+                                <button type="submit" name="subscribe-email-btn" id="subscribe-email-btn" class="button border mt-20 form-button"> Get notified </button>
+                                <!-- <a class="button border mt-20 form-button" href="php/subscribe-process.php" name="subscribe-email-btn"> Get notified </a> -->
 
                             </div>
                         </form>
@@ -87,4 +120,3 @@
         </div>
     </div>
 </footer>
-

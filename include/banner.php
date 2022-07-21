@@ -19,7 +19,7 @@
                             <h1 class="text-white">We're <span class="theme-color"> ICDL </span> <br />
                                 accredited test center</h1>
                             <div class="mt-20">
-                                <a class="button" href="#"> Learn More </a>
+                                <a class="button" href="certifications.php"> Learn More </a>
                             </div>
                         </div>
                         <div class="item">
@@ -27,7 +27,7 @@
                             <h1 class="text-white">We're here to <span class="theme-color"> grow </span> <br />
                                 your business</h1>
                             <div class="mt-20">
-                                <a class="button" href="#"> Contact Us </a>
+                                <a class="button" href="contact.php"> Contact Us </a>
                             </div>
                         </div>
                         <div class="item">
@@ -36,7 +36,7 @@
                             <br /> business<span class="theme-color">
                                     success </span></h1>
                             <div class="mt-20">
-                                <a class="button" href="#"> Contact Us </a>
+                                <a class="button" href="contact.php"> Contact Us </a>
                             </div>
                         </div>
                         <div class="item">
@@ -44,7 +44,7 @@
                             <h1 class="text-white">Got a <span class="theme-color"> project </span> <br /> for
                                 us?</h1>
                             <div class="mt-20">
-                                <a class="button" href="#"> Lets talk </a>
+                                <a class="button" href="contact.php"> Lets talk </a>
                             </div>
                         </div>
                         <!-- <div class="item">

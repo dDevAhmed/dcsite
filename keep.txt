@@ -14,7 +14,6 @@ forms
 !!!stop scroll page to top when copy btn click
 instagram link
 icdl action box link to certification page
-academy price table
 more service pictures = distorted
 
 

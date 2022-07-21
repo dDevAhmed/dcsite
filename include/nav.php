@@ -34,10 +34,10 @@
                                             class="fa fa-angle-down fa-indicator"></i></a>
                                     <!-- drop down multilevel  -->
                                     <ul class="drop-down-multilevel">
-                                        <li><a href="#">Academy </a></li>
+                                        <li><a href="academy.php">Academy </a></li>
                                         <li><a href="#">Internships </a></li>
-                                        <li><a href="#">Corperate Trainings </a></li>
-                                        <li><a href="#">Certifications </a></li>
+                                        <li><a href="corperate-trainings.php">Corperate Trainings </a></li>
+                                        <li><a href="certifications.php">Certifications </a></li>
                                     </ul>
                                 </li>
 
