@@ -13,8 +13,8 @@ forms
     newsletter
 !!!stop scroll page to top when copy btn click
 instagram link
-icdl action box link to certification page
-more service pictures = distorted
+meta descriptions
+
 
 
 ===logos remain
