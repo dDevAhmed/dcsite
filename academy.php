@@ -122,17 +122,17 @@ about -->
                             </a>
                         </div> -->
                         <div class="col-md-6">
-                                <ul class="list list-unstyled list-hand">
-                                    <li> Get certified</li>
-                                    <li> Learn from the professionals </li>
-                                </ul>
-                            </div>
-                            <div class="col-md-6">
-                                <ul class="list list-unstyled list-hand">
-                                    <li> Master modern tech skills</li>
-                                    <li> Learn by doing </li>
-                                </ul>
-                            </div>
+                            <ul class="list list-unstyled list-hand">
+                                <li> Get certified</li>
+                                <li> Learn from the professionals </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="list list-unstyled list-hand">
+                                <li> Master modern tech skills</li>
+                                <li> Learn by doing </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -154,16 +154,16 @@ about -->
                         </div>
                     </div>
                 </div>
+                <!-- <div class="row"> -->
                 <div class="row">
-                    
-                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="feature-3 mb-30">
                             <div class="feature-3-image mb-20">
                                 <img alt="" src="images/academy/course-holiday-primary.jpg" class="img-responsive">
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">Holiday Class (Primary)</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Catch them young with the relevant digital skills</p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Basic</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 2 Weeks </span>
@@ -180,7 +180,7 @@ about -->
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">Holiday Class (Secondary)</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Spend time learning relevant digital skills</p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Intermediate</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 2 Weeks </span>
@@ -197,7 +197,7 @@ about -->
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">CBT Coaching</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Get introduce to the basics of computer</p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Basic</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 1 Week </span>
@@ -207,6 +207,8 @@ about -->
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="feature-3 mb-30">
                             <div class="feature-3-image mb-20">
@@ -214,7 +216,7 @@ about -->
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">Digital Literacy 1</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Get ahead in time with the skills needed to thrive in the digital age</p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Basic</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
@@ -231,7 +233,7 @@ about -->
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">Digital Literacy 2</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Gain competitive digital skills relevant to business, academic or personal development </p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Intermediate</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
@@ -248,7 +250,7 @@ about -->
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">Graphic Design</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Master the tools and techniques to express your creativity in design</p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Advance</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
@@ -258,6 +260,8 @@ about -->
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4">
                         <div class="feature-3 mb-30">
                             <div class="feature-3-image mb-20">
@@ -265,7 +269,7 @@ about -->
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">Web Development</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Learn to build fully responsive website and web apps to impress clients and employers with your coding skills and get ahead on the job.</p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Advance</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 6 Weeks </span>
@@ -282,7 +286,7 @@ about -->
                             </div>
                             <div class="feature-3-info">
                                 <h4 class="text-back">Networking / System Security</h4>
-                                <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita nesciunt incidunt accusamus necessitatibus modi adipisci officia sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+                                <p>Learn to design, build and maintain modern networks.</p>
                                 <h6 class="text-center mt-30 mb-15">
                                     <span class="pull-left"><i class="fa fa-signal"></i> Advance</span>
                                     <span class="text-center"><i class="fa fa-calendar"></i> 6 Weeks </span>
@@ -293,6 +297,7 @@ about -->
                         </div>
                     </div>
                 </div>
+                <!-- </div> -->
             </div>
     </div>
     </section>

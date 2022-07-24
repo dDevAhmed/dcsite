@@ -45,40 +45,40 @@
                         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" id="newsletter-subscribe-form" name="newsletter-subscribe-form" class="validate">
                             <?php
                                 //mysql connection parameters
-                                $hostname = "localhost";
-                                $user = "root";
-                                $pass = "";
-                                $dbname = "dcsite";
+                                // $hostname = "localhost";
+                                // $user = "root";
+                                // $pass = "";
+                                // $dbname = "dcsite";
 
-                                $connection = mysqli_connect($hostname, $user, $pass, $dbname);
+                                // $connection = mysqli_connect($hostname, $user, $pass, $dbname);
 
-                                $subscriberEmail = ""; //first we leave email field blank
-                                if (isset($_POST['subscribe-email-btn'])) { //if subscribe btn clicked
-                                    $subscriberEmail = $_POST['subscribe-email']; //getting user entered email
-                                    if (filter_var($subscriberEmail, FILTER_VALIDATE_EMAIL)) { //validating user email
-                                        $subject = "You have successfully subscribed - Darussalam Computers";
-                                        $message = "Thanks for subscribing to our newsletter. You'll always receive updates from us. And we won't share and sell your information.";
-                                        $sender = "From: info@darussalamcomputers.com";
-                                        //php function to send mail
-                                        if (mail($subscriberEmail, $subject, $message, $sender)) {
+                                // $subscriberEmail = ""; //first we leave email field blank
+                                // if (isset($_POST['subscribe-email-btn'])) { //if subscribe btn clicked
+                                //     $subscriberEmail = $_POST['subscribe-email']; //getting user entered email
+                                //     if (filter_var($subscriberEmail, FILTER_VALIDATE_EMAIL)) { //validating user email
+                                //         $subject = "You have successfully subscribed - Darussalam Computers";
+                                //         $message = "Thanks for subscribing to our newsletter. You'll always receive updates from us. And we won't share and sell your information.";
+                                //         $sender = "From: info@darussalamcomputers.com";
+                                //         //php function to send mail
+                                //         if (mail($subscriberEmail, $subject, $message, $sender)) {
                                             ?>
                                             <!-- show sucess message once email send successfully -->
-                                            <div class="alert alert-success" role="alert">
-                                                <?php echo "You have successfully subscribed." ?>
-                                            </div>
+                                            <!-- <div class="alert alert-success" role="alert">
+                                                <?php //echo "You have successfully subscribed." ?>
+                                            </div> -->
                                             <?php
-                                                mysqli_query($connection, "insert into subscribers values('', '" . $subscriberEmail . "');");
-                                                $subscriberEmail = "";
-                                            } else {
+                                            //     mysqli_query($connection, "insert into subscribers values('', '" . $subscriberEmail . "');");
+                                            //     $subscriberEmail = "";
+                                            // } else {
                                                 ?>
                                                 <!-- show error message if somehow mail can't be sent -->
-                                                <div class="alert alert-danger" role="alert">
-                                                    <?php echo "Failed while sending your mail!" ?>
-                                                </div>
+                                                <!-- <div class="alert alert-danger" role="alert">
+                                                    <?php //echo "Failed while sending your mail!" ?>
+                                                </div> -->
                                                 <?php
-                                        }
-                                    } 
-                                }
+                                //         }
+                                //     } 
+                                // }
                             ?>
                             <div id="msg"> </div>
                             <div id="">
@@ -95,7 +95,6 @@
                             <div class="clear">
                                 <button type="submit" name="subscribe-email-btn" id="subscribe-email-btn" class="button border mt-20 form-button"> Get notified </button>
                                 <!-- <a class="button border mt-20 form-button" href="php/subscribe-process.php" name="subscribe-email-btn"> Get notified </a> -->
-
                             </div>
                         </form>
                     </div>

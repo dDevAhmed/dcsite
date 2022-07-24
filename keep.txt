@@ -14,6 +14,7 @@ forms
 !!!stop scroll page to top when copy btn click
 instagram link
 meta descriptions
+course checkout form = description/content
 
 
 
