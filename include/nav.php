@@ -30,12 +30,12 @@
 
                                 <li class=<?php if(($currentPge == "services") || ($currentPge == "servicedetail")){ echo "active"; } ?> ><a href="services.php">Services </a></li>
 
-                                <li class=<?php if(($currentPge == "academy") || ($currentPge == "internships") || ($currentPge == "corperatetrainings") || ($currentPge == "certifications")){ echo "active"; } ?>><a href="javascript:void(0)"> Programmes <i
+                                <li class=<?php if(($currentPge == "academy") || ($currentPge == "internships") || ($currentPge == "corperatetrainings") || ($currentPge == "certifications") || ($currentPge == "coursedescription")){ echo "active"; } ?>><a href="javascript:void(0)"> Programmes <i
                                             class="fa fa-angle-down fa-indicator"></i></a>
                                     <!-- drop down multilevel  -->
                                     <ul class="drop-down-multilevel">
                                         <li><a href="academy.php">Academy </a></li>
-                                        <li><a href="#">Internships </a></li>
+                                        <li><a href="internships.php">Internships </a></li>
                                         <li><a href="corperate-trainings.php">Corperate Trainings </a></li>
                                         <li><a href="certifications.php">Certifications </a></li>
                                     </ul>

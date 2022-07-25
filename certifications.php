@@ -238,17 +238,6 @@ page-title -->
  service-->
 
 
- <!--=================================
-counter -->
-
-        <?php
-            include_once('include/portfoliocounter.php');
-        ?>
-    
-    <!--=================================
-    counter -->
-
-
         <!--=================================
  footer -->
 

@@ -14,7 +14,12 @@ forms
 !!!stop scroll page to top when copy btn click
 instagram link
 meta descriptions
-course checkout form = description/content
+course description
+    ===done
+        holiday primary
+        holiday secondary
+        cbt coaching
+coperate training calendar = php dynamic
 
 
 

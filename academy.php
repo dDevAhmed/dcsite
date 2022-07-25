@@ -169,7 +169,8 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 2 Weeks </span>
                                     <span class="pull-right"> &#8358;10,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <!-- <button type="button" class="btn btn-primary btn-block">Apply</button> -->
+                                <a href="course-holiday-class-primary.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -186,7 +187,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 2 Weeks </span>
                                     <span class="pull-right"> &#8358;15,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -203,7 +204,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 1 Week </span>
                                     <span class="pull-right"> &#8358;5,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <a href="course-cbt-coaching.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -222,7 +223,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
                                     <span class="pull-right"> &#8358;20,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -239,7 +240,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
                                     <span class="pull-right"> &#8358;25,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -256,7 +257,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
                                     <span class="pull-right"> &#8358;40,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -275,7 +276,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 6 Weeks </span>
                                     <span class="pull-right"> &#8358;60,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -292,7 +293,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 6 Weeks </span>
                                     <span class="pull-right"> &#8358;50,000 </span>
                                 </h6>
-                                <button type="button" class="btn btn-primary btn-block">Apply</button>
+                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>

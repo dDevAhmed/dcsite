@@ -118,14 +118,14 @@ page-title -->
                         <div class="isotope columns-4 popup-gallery">
                             <!-- <div class="grid-item awards">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/small/01.jpg" alt="">
+                                    <img src="images/gallery/small/01.jpg" alt="">
                                     <div class="portfolio-overlay">
                                         <h4 class="text-white"> <a href="portfolio-single-01.html"> Post simple image
                                             </a> </h4>
                                         <span class="text-white"> <a href="#"> projects </a> | <a href="#"> Web Design
                                             </a> </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/small/01.jpg"><i
+                                    <a class="popup portfolio-img" href="images/gallery/small/01.jpg"><i
                                             class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div> -->
@@ -139,7 +139,7 @@ page-title -->
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/end_of_year_1.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/end_of_year_1.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -149,7 +149,7 @@ page-title -->
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/end_of_year_2.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/end_of_year_2.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -159,7 +159,7 @@ page-title -->
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/end_of_year_3.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/end_of_year_3.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -169,7 +169,7 @@ page-title -->
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/end_of_year_4.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/end_of_year_4.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -179,7 +179,7 @@ page-title -->
                                         <h4 class="text-white"> End of Year celebration </h4>
                                         <span class="text-white"> 2019 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/end_of_year_5.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/end_of_year_5.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -189,7 +189,7 @@ page-title -->
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/book_launch_1.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/book_launch_1.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -199,7 +199,7 @@ page-title -->
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/book_launch_2.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/book_launch_2.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -209,7 +209,7 @@ page-title -->
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/book_launch_3.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/book_launch_3.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -219,7 +219,7 @@ page-title -->
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/book_launch_4.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/book_launch_4.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -229,7 +229,7 @@ page-title -->
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/book_launch_5.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/book_launch_5.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -239,7 +239,7 @@ page-title -->
                                         <h4 class="text-white"> Book Launch </h4>
                                         <span class="text-white"> 2015 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/book_launch_6.JPG"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/book_launch_6.JPG"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -249,7 +249,7 @@ page-title -->
                                         <h4 class="text-white"> NAF Training </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/naf_training_1.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/naf_training_1.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item events">
@@ -259,7 +259,7 @@ page-title -->
                                         <h4 class="text-white"> NAF Training </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/events/naf_training_2.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/events/naf_training_2.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
 
@@ -273,7 +273,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_1.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_1.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -283,7 +283,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_2.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_2.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -293,7 +293,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_3.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_3.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -303,7 +303,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_4.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_4.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -313,7 +313,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_5.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_5.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -323,7 +323,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_6.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_6.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -333,7 +333,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_7.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_7.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -343,7 +343,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_8.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_8.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -353,7 +353,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_9.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_9.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -363,7 +363,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_10.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_10.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -373,7 +373,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_11.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_11.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -383,7 +383,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_12.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_12.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -393,7 +393,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_13.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_13.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -403,7 +403,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <span class="text-white"> 2016 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/udu_sok_14.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/udu_sok_14.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
 
@@ -415,7 +415,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_1.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_1.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -425,7 +425,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_2.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_2.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -435,7 +435,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_3.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_3.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -445,7 +445,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_4.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_4.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -455,7 +455,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_5.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_5.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -465,7 +465,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_6.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_6.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -475,7 +475,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_7.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_7.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -485,7 +485,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_8.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_8.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -495,7 +495,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_9.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_9.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -505,7 +505,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_10.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_10.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -515,7 +515,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_11.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_11.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -525,7 +525,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_12.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_12.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -535,7 +535,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_13.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_13.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -545,7 +545,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_14.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_14.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -555,7 +555,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_15.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_15.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -565,7 +565,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_16.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_16.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -575,7 +575,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_17.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_17.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -585,7 +585,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_18.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_18.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -595,7 +595,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_19.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_19.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item projects">
@@ -605,7 +605,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <span class="text-white"> 2014 </span>
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/projects/fcck_20.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/projects/fcck_20.JPG.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
 
@@ -619,7 +619,7 @@ page-title -->
                                         <h4 class="text-white"> Central Bank of Nigeria </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/cbn.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/cbn.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -629,7 +629,7 @@ page-title -->
                                         <h4 class="text-white"> ICDL </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/icdl.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/icdl.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -639,7 +639,7 @@ page-title -->
                                         <h4 class="text-white"> Industrial Training Fund </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/itf.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/itf.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -649,7 +649,7 @@ page-title -->
                                         <h4 class="text-white"> Jamal Secondary </h4>
                                         <!-- <span class="text-white"> 2019 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/jamal.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/jamal.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -659,7 +659,7 @@ page-title -->
                                         <h4 class="text-white"> Kaduna Polytechnic </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/kadpoly.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/kadpoly.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -669,7 +669,7 @@ page-title -->
                                         <h4 class="text-white"> Kaduna State Government </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/kadunastate.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/kadunastate.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -679,7 +679,7 @@ page-title -->
                                         <h4 class="text-white"> Katsina Judiciary </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/katsinajudiciary.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/katsinajudiciary.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -689,7 +689,7 @@ page-title -->
                                         <h4 class="text-white"> Kaduna Central Academy </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/kca.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/kca.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -699,7 +699,7 @@ page-title -->
                                         <h4 class="text-white"> Peugeot Automobile Nigeria </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/peugeot.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/peugeot.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -709,7 +709,7 @@ page-title -->
                                         <h4 class="text-white"> Shell </h4>
                                         <!-- <span class="text-white"> 2015 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/shell.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/shell.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -719,7 +719,7 @@ page-title -->
                                         <h4 class="text-white"> Usman Danfodio University </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/udus.jpg"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/udus.jpg"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -729,7 +729,7 @@ page-title -->
                                         <h4 class="text-white"> United Nations </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/un.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/un.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -739,7 +739,7 @@ page-title -->
                                         <h4 class="text-white"> Fairview Consulting </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/fairview.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/fairview.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                             <div class="grid-item partners">
@@ -749,7 +749,7 @@ page-title -->
                                         <h4 class="text-white"> Federal Cooperative College </h4>
                                         <!-- <span class="text-white"> 2016 </span> -->
                                     </div>
-                                    <a class="popup portfolio-img" href="images/portfolio/partners/fcc.png"><i class="fa fa-arrows-alt"></i></a>
+                                    <a class="popup portfolio-img" href="images/gallery/partners/fcc.png"><i class="fa fa-arrows-alt"></i></a>
                                 </div>
                             </div>
                         </div>
