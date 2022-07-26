@@ -223,7 +223,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
                                     <span class="pull-right"> &#8358;20,000 </span>
                                 </h6>
-                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
+                                <a href="course-digital-literacy-1.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
                                     <span class="pull-right"> &#8358;25,000 </span>
                                 </h6>
-                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
+                                <a href="course-digital-literacy-2.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -257,7 +257,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 4 Weeks </span>
                                     <span class="pull-right"> &#8358;40,000 </span>
                                 </h6>
-                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
+                                <a href="course-graphic-design.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -276,7 +276,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 6 Weeks </span>
                                     <span class="pull-right"> &#8358;60,000 </span>
                                 </h6>
-                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
+                                <a href="course-web-development.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>
@@ -293,7 +293,7 @@ about -->
                                     <span class="text-center"><i class="fa fa-calendar"></i> 6 Weeks </span>
                                     <span class="pull-right"> &#8358;50,000 </span>
                                 </h6>
-                                <a href="course-holiday-class-secondary.php" class="btn btn-primary btn-block">Apply</a>
+                                <a href="course-computer-networking.php" class="btn btn-primary btn-block">Apply</a>
                             </div>
                         </div>
                     </div>

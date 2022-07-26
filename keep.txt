@@ -15,10 +15,8 @@ forms
 instagram link
 meta descriptions
 course description
-    ===done
-        holiday primary
-        holiday secondary
-        cbt coaching
+    ===undone
+        graphic = description
 coperate training calendar = php dynamic
 gallery distorted pictures
 scroll to top button
