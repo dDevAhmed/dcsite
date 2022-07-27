@@ -1,45 +1,4 @@
-===green (primary color)= #84ba3f
-
-
-===tasks remain
-smooth scroll down button = index page
-pages not index header caption
-    about
-    services
-        all services
-    portfolio
-    contact
-forms
-    newsletter
-!!!stop scroll page to top when copy btn click
-instagram link
-meta descriptions
-course description
-    ===undone
-        graphic = description
-coperate training calendar = php dynamic
-gallery distorted pictures
 scroll to top button
 gallery view image
+corperate trainings calendar
 
-
-
-===logos remain
-newtraffordbrigde
-nudmc
-garkuwa
-
-
-===KEEP
-academy === Grow your skills, define your future.
-Presenting Academy, the tech school of the future. We teach you the right skills to be prepared for tomorrow.
-
-about === tranforming the way people and organizations work so they can achieve their greatest ambitions
-
-lets make great things together
-
-contact us === we love to hear from you
-
-services === our passion is our success
-
-we know the secret of your success
