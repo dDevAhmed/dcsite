@@ -1,5 +1,5 @@
-<?php 
-    $currentPge = "certifications";
+<?php
+$currentPge = "certifications";
 ?>
 
 <!DOCTYPE html>
@@ -18,8 +18,7 @@
     <link rel="shortcut icon" href="images/dcLogo.png" />
 
     <!-- font -->
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,500,500i,600,700,800,900|Poppins:200,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,500,500i,600,700,800,900|Poppins:200,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900">
 
     <!-- Plugins -->
     <link rel="stylesheet" type="text/css" href="css/plugins-css.css" />
@@ -47,7 +46,7 @@
  preloader -->
 
         <?php
-            include_once('include/preloader.php');
+        include_once('include/preloader.php');
         ?>
 
         <!--=================================
@@ -61,14 +60,14 @@
         <header id="header" class="header default">
             <!-- class= dark -->
             <?php
-                include_once('include/topbar.php');
+            include_once('include/topbar.php');
             ?>
 
             <!--=================================
    mega menu -->
 
             <?php
-                include_once('include/nav.php');
+            include_once('include/nav.php');
             ?>
         </header>
 
@@ -88,8 +87,7 @@ page-title-->
                             <p>We know the secret of your success</p>
                         </div>
                         <ul class="page-breadcrumb">
-                            <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i
-                                    class="fa fa-angle-double-right"></i></li>
+                            <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
                             <li><span>Certifications</span> </li>
                         </ul>
                     </div>
@@ -102,132 +100,52 @@ page-title -->
 
 
         <!--=================================
- service-->
+ packages-->
 
         <section class="our-services page-section-ptb gray-bg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
                         <div class="section-title text-center">
-                            <h6>We're Good At</h6>
-                            <h2 class="title-effect">Our Services </h2>
+                            <h6>Get Recognized with</h6>
+                            <h2 class="title-effect">International Certifications </h2>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <!-- <span aria-hidden="true" class="ti-layers-alt"></span> -->
-                                <img src="images/icons/black/icons8-software-100.png" alt="software-solution">
+                    <div class="col-lg-12 col-md-12">
+                        <p>ICDL is the world's leading computer skills certification. To date more than 15 million people have engaged with the ICDL programme, in over 100 countries. ICDL is an international organisation dedicated to raising digital competence standards in the workforce, education and society. ICDL certification programmes, delivered through an active network in more than 100 countries, enable individuals and organisations to assess, build and certify their competence in the use of computers and digital tools to the globally-recognised ICDL standard. <br><br>
 
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">Software Development</h4>
-                                <p>Tailored software solutions for you to achieve business needs in a fast and excellent way... </p>
-                                <a class="button mt-20" href="software-development.php">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/black/icons8-computer-networks-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">Computer Networking</h4>
-                                <p>Fast, secure networks to allow you connect your business, customers and clients anywhere, anytime...</p>
-                                <a class="button mt-20" href="computer-networking.php">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/black/icons8-website-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">Web Development</h4>
-                                <p>Fully responsive web solutions to help improve your business online...</p>
-                                <a class="button mt-20" href="web-development.php">read more</a>
-                            </div>
-                        </div>
+                            As a non-profit social enterprise, ICDL benefits from the unique support of experts from national computer societies and partners worldwide to develop vendor-independent standards that define the skills and knowledge required to use digital technology effectively. ICDL work with education and training partners, local and regional authorities, national governments, international development organisations as well as public and private sector employers in all sectors, in the delivery of it programmes.<br><br>
+
+                        </p>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/black/icons8-graphic-design-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">Graphic Design</h4>
-                                <p>Super clean and creative designs to help your brand standout from your competitors... </p>
-                                <a class="button mt-20" href="graphic-design.php">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/black/icons8-sms-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">Bulk SMS</h4>
-                                <p>Reach more potential audiences seamlessly and efficiently... </p>
-                                <a class="button mt-20" href="bulk-sms.php">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/black/icons8-cctv-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">CCTV Installation</h4>
-                                <p>IT security systems to help safeguard your personal and business asset...</p>
-                                <a class="button mt-20" href="cctv-installation.php">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/black/icons8-layers-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">Raised Floor</h4>
-                                <p>Nicely fitted flooring systems for your hardware, electrical and networking systems... </p>
-                                <a class="button mt-20" href="raised-floor.php">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center mb-30 white-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/black/icons8-consulting-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10">Consultancy</h4>
-                                <p>Award-winning consultancy services firm ready to grow your business exponentially... </p>
-                                <a class="button mt-20" href="consultancy.php">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4">
-                        <div class="feature-text box-shadow text-center theme-bg fadeInUp wow">
-                            <div class="feature-icon">
-                                <img src="images/icons/white/icons8-headset-100.png" alt="software-solution">
-                            </div>
-                            <div class="fature-info">
-                                <h4 class="text-back pt-20 pb-10 text-white">Call Us For Quote</h4>
-                                <p class="text-white">We'll be glad to answer all your questions...</p>
-                                <h2 class="text-white">08 1234 0000 1</h2>
-                                <!-- <a class="button mt-20" href="#">read more</a> -->
-                            </div>
+                    <div class="col-lg-12 col-md-12">
+                        <div class="clients-list column-5">
+                            <ul class="list-unstyled">
+                                <li class="text-center">
+                                    <img src="images/icdl/WF-Brochure-Cover.png" alt="workforce brochure" class="img-responsive">
+                                    <a class="btn btn-primary mt-20 mb-20" href="assets/ICDL-Workforce-Brochure-ICDL-Africa-Web.pdf" download>Download Brochure <i class="fa fa-download"></i></a>
+                                </li>
+                                <li class="text-center">
+                                    <img src="images/icdl/Professional-Cover.png" alt="professional brochure" class="img-responsive">
+                                    <a class="btn btn-primary mt-20 mb-20" href="assets/ICDL-Professional-Brochure-ICDL-Africa-Web.pdf" download>Download Brochure <i class="fa fa-download"></i></a>
+                                </li>
+                                <li class="text-center">
+                                    <img src="images/icdl/Insights-Cover.png" alt="insight brochure" class="img-responsive">
+                                    <a class="btn btn-primary mt-20 mb-20" href="assets/ICDL-Insights-Brochure-ICDL-Africa.pdf" download>Download Brochure <i class="fa fa-download"></i></a>
+                                </li>
+                                <li class="text-center">
+                                    <img src="images/icdl/Student-Cover.png" alt="digital student brochure" class="img-responsive">
+                                    <a class="btn btn-primary mt-20 mb-20" href="https://icdlafrica.org/digital-student/icdl-digital-student/" target="_blank">Read More </a>
+                                </li>
+                                <li class="text-center">
+                                    <img src="images/icdl/Citizen-Cover.png" alt="digital citizen brochure" class="img-responsive">
+                                    <a class="btn btn-primary mt-20 mb-20" href="https://icdlafrica.org/digital-citizen/icdl-digital-citizen/" target="_blank">Read More </a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -235,14 +153,58 @@ page-title -->
         </section>
 
         <!--=================================
- service-->
+ packages-->
+
+
+        <!-- contact================================================ -->
+        <section class="our-services page-section-ptb white-bg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="section-title text-center">
+                            <h6>Interested?</h6>
+                            <h2 class="title-effect">Contact Us</h2>
+                            <p>It would be great to hear from you! If you got any questions.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div id="formmessage">Success/Error Message Goes Here</div>
+                        <form class="form-horizontal" id="contactform" role="form" method="post" action="php/contact-form.php">
+                            <div class="contact-form clearfix">
+                                <div class="section-field">
+                                    <input id="name" type="text" placeholder="Name*" class="form-control" name="name">
+                                </div>
+                                <div class="section-field">
+                                    <input type="email" placeholder="Email*" class="form-control" name="email">
+                                </div>
+                                <div class="section-field">
+                                    <input type="text" placeholder="Phone*" class="form-control" name="phone">
+                                </div>
+                                <div class="section-field textarea">
+                                    <textarea class="input-message form-control" placeholder="Comment*" rows="7" name="message"></textarea>
+                                </div>
+                                <!-- Google reCaptch-->
+                                <div class="g-recaptcha section-field clearfix" data-sitekey="[Add your site key]"></div>
+                                <div class="section-field submit-button">
+                                    <input type="hidden" name="action" value="sendEmail" />
+                                    <button id="submit" name="submit" type="submit" value="Send" class="button"><span> Send message </span> <i class="fa fa-paper-plane"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                        <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="images/pre-loader/loader-02.svg" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
         <!--=================================
  footer -->
 
         <?php
-            include_once('include/footer.php');
+        include_once('include/footer.php');
         ?>
 
         <!--=================================
@@ -263,14 +225,16 @@ page-title -->
     <script type="text/javascript" src="js/plugins-jquery.js"></script>
 
     <!-- plugin_path -->
-    <script type="text/javascript">var plugin_path = 'js/';</script>
+    <script type="text/javascript">
+        var plugin_path = 'js/';
+    </script>
 
     <!-- custom -->
     <script type="text/javascript" src="js/custom.js"></script>
 
     <!-- webchat -->
     <?php
-        include_once('include/webchat.php');
+    include_once('include/webchat.php');
     ?>
 
 </body>
