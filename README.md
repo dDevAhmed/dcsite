@@ -25,7 +25,7 @@ Welcome to the GitHub repository for the Darussalam Computers website project. T
 ## How to Run
 1. Clone the repository.
    ```bash
-   git clone ['repository_link'](https://github.com/dDevAhmed/dcsite)
+   git clone https://github.com/dDevAhmed/dcsite
 
 2.  Open index.php in your browser.
 
